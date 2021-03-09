@@ -7,8 +7,8 @@
 
 ## DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS. :chart_with_upwards_trend:
 
-- **Nome do Grupo:** 
-- **Nome do Software:** 
+- **Nome do Grupo:** 14 BIS
+- **Nome do Software:**  Finger One
 - **Visão do Produto:** 
    -   
   
@@ -17,21 +17,22 @@
   
 - **Problema (Desafio):** 
 
+- Desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras especificas para gerar o documento final.
 
 - **Proposta:**
 
-	- Após contato com a empresa, levantamos que as dificuldades ocorrem porque as empresas que fornecem energia ou água não seguem os mesmos padrões de dados, pois cada localidade pode ter um fornecedor diferente. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
+
 ---
 
 ## SPRINTS: :gear:
 
-[Sprint 03]
+[Sprint 01]
 
 
 - **Proposta:**
 
 
-**Tempo da Sprint:** 
+**Tempo da Sprint:** 18/03/2021 á 28/03/2021
 
 ---
 
