@@ -25,7 +25,7 @@
 
 ## SPRINTS: :gear:
 
-[Sprint 03](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2003
+[Sprint 03]
 
 
 - **Proposta:**
