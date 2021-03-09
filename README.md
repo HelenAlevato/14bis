@@ -25,18 +25,11 @@
 
 ## SPRINTS: :gear:
 
-[Sprint 03](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2003)
-
-- **Proposta:**
-
-Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação de algumas informações da conta de energia. Também foi implementado a tela de opção de cadastro de conta, a divisão dos menus e a parte da criação do banco de dados.
-
-**Tempo da Sprint:** 19/10/2020 até 08/11/2020.
-
+[Sprint 03](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2003
 
 
 - **Proposta:**
-nformações da conta de energia e água,. Também foi implementado a opção de fazer a busca e a atualização dos dados das contas.
+
 
 **Tempo da Sprint:** 
 
@@ -73,7 +66,7 @@ nformações da conta de energia e água,. Também foi implementado a opção de
 
 ## P.O :dart:
 
-> - [Lucas](https://github.com/LucasMonteiiroo)
+> -
 
 
 
