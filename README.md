@@ -65,8 +65,10 @@
 
 ---
 ## DEV TEAM :computer: 
-
+Front-End
 > - [Mateus](https://github.com/mateuscamargo)
+
+Back-End
 > - [Flavio](https://github.com/flavioalepereira)
 > - [Carlos](https://github.com/chdsLopes)
 > - [Rangel](https://github.com/rangelandrade)
@@ -81,11 +83,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2MjcwMzU1LDExMDQ0MDc2NjIsMTY1Mj
-YwOTE2Miw5OTI1NDA4MzAsLTEzMTc3NDM5NDQsLTEwMjUwNDM0
-MzksNTkzMjU0NzY4LC0xNjE0Mjc3OTY5LC0xNDc4NDA1NTUsMT
-E5NDAyNDQyNSwyODIwOTY4OTcsLTM4NDE3NDg1LC00NDcwODY4
-NTQsMTM5MzEwOTg3NywtNjQyNDkzMjc5LC02NDI0OTMyNzksOT
-A0OTg2NzIyLDE4NDYyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjEx
-NjAzMl19
+eyJoaXN0b3J5IjpbLTM0MzA2MDMwNyw1NzYyNzAzNTUsMTEwND
+QwNzY2MiwxNjUyNjA5MTYyLDk5MjU0MDgzMCwtMTMxNzc0Mzk0
+NCwtMTAyNTA0MzQzOSw1OTMyNTQ3NjgsLTE2MTQyNzc5NjksLT
+E0Nzg0MDU1NSwxMTk0MDI0NDI1LDI4MjA5Njg5NywtMzg0MTc0
+ODUsLTQ0NzA4Njg1NCwxMzkzMTA5ODc3LC02NDI0OTMyNzksLT
+Y0MjQ5MzI3OSw5MDQ5ODY3MjIsMTg0NjI1NTQwMCwtNzIwNjQx
+ODg4XX0=
 -->
