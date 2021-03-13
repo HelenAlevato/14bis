@@ -59,6 +59,7 @@
 
 > - [Mateus](https://github.com/mateuscamargo)
 > - [Flavio](https://github.com/flavioalepereira)
+> - [Carlos](https://github.com/chdsLopes)
 
  ---
 ## SCRUM MASTER :robot:
@@ -67,16 +68,16 @@
 
 ## P.O :dart:
 
-> -
+> - [Carlos](https://github.com/chdsLopes)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjYwOTE2Miw5OTI1NDA4MzAsLTEzMT
-c3NDM5NDQsLTEwMjUwNDM0MzksNTkzMjU0NzY4LC0xNjE0Mjc3
-OTY5LC0xNDc4NDA1NTUsMTE5NDAyNDQyNSwyODIwOTY4OTcsLT
-M4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEwOTg3NywtNjQyNDkz
-Mjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLDE4NDYyNTU0MDAsLT
-cyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2Nzc2LDIwNjk4
-MDE3NjldfQ==
+eyJoaXN0b3J5IjpbLTE4MDkzMjQ1MDcsMTY1MjYwOTE2Miw5OT
+I1NDA4MzAsLTEzMTc3NDM5NDQsLTEwMjUwNDM0MzksNTkzMjU0
+NzY4LC0xNjE0Mjc3OTY5LC0xNDc4NDA1NTUsMTE5NDAyNDQyNS
+wyODIwOTY4OTcsLTM4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEw
+OTg3NywtNjQyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLD
+E4NDYyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5
+NzE2Nzc2XX0=
 -->
