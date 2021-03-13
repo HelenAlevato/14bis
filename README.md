@@ -54,30 +54,38 @@
 > - [MySql](https://www.mysql.com/)
 
 ---
+## P.O :dart:
 
-## DEV TEAM :computer: 
-
-> - [Mateus](https://github.com/mateuscamargo)
-> - [Flavio](https://github.com/flavioalepereira)
-> - [Carlos](https://github.com/chdsLopes)
+> - [Helen](https://github.com/chdsLopes)
 
  ---
 ## SCRUM MASTER :robot:
 
 > - [Vitor](https://github.com/assenvitor)
 
-## P.O :dart:
+---
+## DEV TEAM :computer: 
 
+> - [Mateus](https://github.com/mateuscamargo)
+> - [Flavio](https://github.com/flavioalepereira)
 > - [Carlos](https://github.com/chdsLopes)
+> - [Rangel](https://github.com/chdsLopes)
+> - [Junior](https://github.com/chdsLopes)
+
+
+
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkzMjQ1MDcsMTY1MjYwOTE2Miw5OT
-I1NDA4MzAsLTEzMTc3NDM5NDQsLTEwMjUwNDM0MzksNTkzMjU0
-NzY4LC0xNjE0Mjc3OTY5LC0xNDc4NDA1NTUsMTE5NDAyNDQyNS
-wyODIwOTY4OTcsLTM4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEw
-OTg3NywtNjQyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLD
-E4NDYyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5
-NzE2Nzc2XX0=
+eyJoaXN0b3J5IjpbMTI2MzczNjk2MiwxNjUyNjA5MTYyLDk5Mj
+U0MDgzMCwtMTMxNzc0Mzk0NCwtMTAyNTA0MzQzOSw1OTMyNTQ3
+NjgsLTE2MTQyNzc5NjksLTE0Nzg0MDU1NSwxMTk0MDI0NDI1LD
+I4MjA5Njg5NywtMzg0MTc0ODUsLTQ0NzA4Njg1NCwxMzkzMTA5
+ODc3LC02NDI0OTMyNzksLTY0MjQ5MzI3OSw5MDQ5ODY3MjIsMT
+g0NjI1NTQwMCwtNzIwNjQxODg4LC0xMTk2MTE2MDMyLDE2MTk3
+MTY3NzZdfQ==
 -->
