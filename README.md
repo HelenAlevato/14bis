@@ -56,7 +56,7 @@
 ---
 ## P.O :dart:
 
-> - [Helen](https://github.com/chdsLopes)
+> - [Helen](https://github.com/HelenAlevato)
 
  ---
 ## SCRUM MASTER :robot:
@@ -69,8 +69,8 @@
 > - [Mateus](https://github.com/mateuscamargo)
 > - [Flavio](https://github.com/flavioalepereira)
 > - [Carlos](https://github.com/chdsLopes)
-> - [Rangel](https://github.com/chdsLopes)
-> - [Junior](https://github.com/chdsLopes)
+> - [Rangel](https://github.com/rangelandrade)
+> - [Junior](https://github.com/joseforneiro)
 
 
 
@@ -81,7 +81,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzczNjk2MiwxNjUyNjA5MTYyLDk5Mj
+eyJoaXN0b3J5IjpbMTEwNDQwNzY2MiwxNjUyNjA5MTYyLDk5Mj
 U0MDgzMCwtMTMxNzc0Mzk0NCwtMTAyNTA0MzQzOSw1OTMyNTQ3
 NjgsLTE2MTQyNzc5NjksLTE0Nzg0MDU1NSwxMTk0MDI0NDI1LD
 I4MjA5Njg5NywtMzg0MTc0ODUsLTQ0NzA4Njg1NCwxMzkzMTA5
