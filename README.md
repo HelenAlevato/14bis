@@ -47,8 +47,7 @@
 ## FERRAMENTAS: :wrench:
 > - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
 > - [Trello](https://trello.com)
-> - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
-> - [AdobeXD](https://www.adobe.com/br/products/xd.html)
+> - [Figma](https://www.figma.com/)
 > - [StackEdit]( https://stackedit.io/)
 > - [Ecplise](https://www.eclipse.org/downloads/)
 > - [MySql](https://www.mysql.com/)
@@ -85,11 +84,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyNzE0NzIyLDU3NjI3MDM1NSwxMTA0ND
-A3NjYyLDE2NTI2MDkxNjIsOTkyNTQwODMwLC0xMzE3NzQzOTQ0
-LC0xMDI1MDQzNDM5LDU5MzI1NDc2OCwtMTYxNDI3Nzk2OSwtMT
-Q3ODQwNTU1LDExOTQwMjQ0MjUsMjgyMDk2ODk3LC0zODQxNzQ4
-NSwtNDQ3MDg2ODU0LDEzOTMxMDk4NzcsLTY0MjQ5MzI3OSwtNj
-QyNDkzMjc5LDkwNDk4NjcyMiwxODQ2MjU1NDAwLC03MjA2NDE4
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTE2ODE5MTY3MTUsNDYyNzE0NzIyLDU3Nj
+I3MDM1NSwxMTA0NDA3NjYyLDE2NTI2MDkxNjIsOTkyNTQwODMw
+LC0xMzE3NzQzOTQ0LC0xMDI1MDQzNDM5LDU5MzI1NDc2OCwtMT
+YxNDI3Nzk2OSwtMTQ3ODQwNTU1LDExOTQwMjQ0MjUsMjgyMDk2
+ODk3LC0zODQxNzQ4NSwtNDQ3MDg2ODU0LDEzOTMxMDk4NzcsLT
+Y0MjQ5MzI3OSwtNjQyNDkzMjc5LDkwNDk4NjcyMiwxODQ2MjU1
+NDAwXX0=
 -->
