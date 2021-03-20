@@ -58,9 +58,13 @@
 
 ---
 ## P.O :dart:
-</Helen>
-[Teste]![](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/?link=https://github.com/HelenAlevato)</Helen>
+
+![](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HelenAlevato)
+
 > [Helen](https://github.com/HelenAlevato)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
 
  ---
 ## SCRUM MASTER :robot:
@@ -89,11 +93,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNTkzNDEsLTEwNTA5MDM0MzIsMTkyOD
-YyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgsNTgxNDExMDE3
-LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNzMzMDgyOCwxMz
-cxMTc3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQsLTc2MTM2MTQ0
-MSwtMTY4MTkxNjcxNSw0NjI3MTQ3MjIsNTc2MjcwMzU1LDExMD
-Q0MDc2NjIsMTY1MjYwOTE2Miw5OTI1NDA4MzAsLTEzMTc3NDM5
-NDRdfQ==
+eyJoaXN0b3J5IjpbMjEyMjUxMjM2LC0xMDUwOTAzNDMyLDE5Mj
+g2MjUxMzEsMTQyNzIzMTQzNSwxMTcxMjc4NDQ4LDU4MTQxMTAx
+NywtMTIwMzAxNTEyOSwtMTQ5NTc5NTY2NSwzMTczMzA4MjgsMT
+M3MTE3NzQ1Miw5OTY4OTUzMzQsOTk2ODk1MzM0LC03NjEzNjE0
+NDEsLTE2ODE5MTY3MTUsNDYyNzE0NzIyLDU3NjI3MDM1NSwxMT
+A0NDA3NjYyLDE2NTI2MDkxNjIsOTkyNTQwODMwLC0xMzE3NzQz
+OTQ0XX0=
 -->
