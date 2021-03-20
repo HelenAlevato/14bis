@@ -55,12 +55,9 @@
 ---
 ## P.O :dart:
 
-#### Helen**
-[
+Helen**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HelenAlevato)
-](https://github.com/HelenAlevato)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevatomateuscamargolima/)](https://www.linkedin.com/in/helen-alevato)
+](https://github.com/HelenAlevato)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevatomateuscamargolima/)](https://www.linkedin.com/in/helen-alevato)
 
 
 
@@ -79,11 +76,12 @@
 ## DEV TEAM :computer: 
 **Front-End**
 #### Mateus
-
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mateuscamargo)
 ](https://github.com/mateuscamargo)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in//)](https://www.linkedin.com/in/---
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in//)](https://www.linkedin.com/in)
+
+---
 **Back-End**
 #### Flavio
 [
@@ -132,7 +130,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAzMzk2NTYsLTEyNDEyNjQ5NDEsLT
+eyJoaXN0b3J5IjpbLTEzODU4NDYzNzIsLTEyNDEyNjQ5NDEsLT
 MxODk0MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2NTUsLTE2NjY5
 ODcxMjksLTEyNDA0MTgwMTYsLTEwMzYxMzcwNDMsLTEwNTA5MD
 M0MzIsMTkyODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgs
