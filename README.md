@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)  
+![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge) ![](https://img.shields.io/github/downloads/mateuscamargo/14bis/total.svg?style=for-the-badge)  
  
  ---
 ![Logo 14BIS](https://raw.githubusercontent.com/mateuscamargo/14bis/main/Logo/Logo.png) 
@@ -106,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDQ1NzMyNywxNzU1MzY3ODAsMTUxMT
-E0MDk2MiwtMTI0MTI2NDk0MSwtMzE4OTQxMDIxLC0yMjExOTE2
-ODIsMTkyNjMwMDY1NSwtMTY2Njk4NzEyOSwtMTI0MDQxODAxNi
-wtMTAzNjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4NjI1MTMxLDE0
-MjcyMzE0MzUsMTE3MTI3ODQ0OCw1ODE0MTEwMTcsLTEyMDMwMT
-UxMjksLTE0OTU3OTU2NjUsMzE3MzMwODI4LDEzNzExNzc0NTIs
-OTk2ODk1MzM0XX0=
+eyJoaXN0b3J5IjpbMTIyMDE4NjcyMiwxNjUwNDU3MzI3LDE3NT
+UzNjc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5NDEw
+MjEsLTIyMTE5MTY4MiwxOTI2MzAwNjU1LC0xNjY2OTg3MTI5LC
+0xMjQwNDE4MDE2LC0xMDM2MTM3MDQzLC0xMDUwOTAzNDMyLDE5
+Mjg2MjUxMzEsMTQyNzIzMTQzNSwxMTcxMjc4NDQ4LDU4MTQxMT
+AxNywtMTIwMzAxNTEyOSwtMTQ5NTc5NTY2NSwzMTczMzA4Mjgs
+MTM3MTE3NzQ1Ml19
 -->
