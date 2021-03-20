@@ -1,6 +1,6 @@
-!.<center>  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)   
-</center>
+
  ---
 ![Logo 14BIS](https://raw.githubusercontent.com/mateuscamargo/14bis/main/Logo/Logo.png?style=for-the-badge) 
 
@@ -102,11 +102,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEwMzY2OTcsLTEwNDkxOTI5NzYsLT
-I1OTkxODA0MywtMTgxOTM1NDEyNiwtMTkzODg2NjcwMyw5OTI1
-NDk4NDYsLTIzNjE4NDc2NywyMDQ0MDM4NjM0LDEyMjAxODY3Mj
-IsMTY1MDQ1NzMyNywxNzU1MzY3ODAsMTUxMTE0MDk2MiwtMTI0
-MTI2NDk0MSwtMzE4OTQxMDIxLC0yMjExOTE2ODIsMTkyNjMwMD
-Y1NSwtMTY2Njk4NzEyOSwtMTI0MDQxODAxNiwtMTAzNjEzNzA0
-MywtMTA1MDkwMzQzMl19
+eyJoaXN0b3J5IjpbMTY5MDY5NjM2NSwtMTA0OTE5Mjk3NiwtMj
+U5OTE4MDQzLC0xODE5MzU0MTI2LC0xOTM4ODY2NzAzLDk5MjU0
+OTg0NiwtMjM2MTg0NzY3LDIwNDQwMzg2MzQsMTIyMDE4NjcyMi
+wxNjUwNDU3MzI3LDE3NTUzNjc4MCwxNTExMTQwOTYyLC0xMjQx
+MjY0OTQxLC0zMTg5NDEwMjEsLTIyMTE5MTY4MiwxOTI2MzAwNj
+U1LC0xNjY2OTg3MTI5LC0xMjQwNDE4MDE2LC0xMDM2MTM3MDQz
+LC0xMDUwOTAzNDMyXX0=
 -->
