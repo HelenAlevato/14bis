@@ -81,7 +81,13 @@
 ---
 ## DEV TEAM :computer: 
 **Front-End**
-### [Mateus](https://github.com/mateuscamargo)
+### [Mateus]
+
+[
+![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mateuscamargo)
+](https://github.com/mateuscamargo)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/mateuscamargolima/)](https://www.linkedin.com/in/mateuscamargolima/)
+
 
 **Back-End**
 ### [Flavio](https://github.com/flavioalepereira)
@@ -100,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY5ODcxMjksLTEyNDA0MTgwMTYsLT
-E0MDk2MDYyNjEsLTEwMzYxMzcwNDMsLTEwNTA5MDM0MzIsMTky
-ODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgsNTgxNDExMD
-E3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNzMzMDgyOCwx
-MzcxMTc3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQsLTc2MTM2MT
-Q0MSwtMTY4MTkxNjcxNSw0NjI3MTQ3MjIsNTc2MjcwMzU1LDEx
-MDQ0MDc2NjJdfQ==
+eyJoaXN0b3J5IjpbNjc4NjcxMjE3LC0xNjY2OTg3MTI5LC0xMj
+QwNDE4MDE2LC0xNDA5NjA2MjYxLC0xMDM2MTM3MDQzLC0xMDUw
+OTAzNDMyLDE5Mjg2MjUxMzEsMTQyNzIzMTQzNSwxMTcxMjc4ND
+Q4LDU4MTQxMTAxNywtMTIwMzAxNTEyOSwtMTQ5NTc5NTY2NSwz
+MTczMzA4MjgsMTM3MTE3NzQ1Miw5OTY4OTUzMzQsOTk2ODk1Mz
+M0LC03NjEzNjE0NDEsLTE2ODE5MTY3MTUsNDYyNzE0NzIyLDU3
+NjI3MDM1NV19
 -->
