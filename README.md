@@ -78,36 +78,27 @@
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/flavioalepereira)
 ](https://github.com/flavioalepereira)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
 
-## DEV TEAM :computer: 
-**Front-End**
-> - [Mateus](https://github.com/mateuscamargo)
 
-**Back-End**
-> - [Flavio](https://github.com/flavioalessandropereira)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
-
-#### Carlos
+**<h2>Carlos**
 
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/chdsLopes)
 ](https://github.com/chdsLopes)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henrique-54754a99/)](https://www.linkedin.com/in/carlos-henrique-54754a99/)
 
----
-**Banco de Dados**
-#### Rangel
+
+## Banco de Dados
+**<h2>Rangel**
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rangelandrade)
 ](https://github.com/rangelandrade)
 
-#### Junior
+**<h2>Junior**
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joseforneiro)
-> - [Carlos](https://github.com/chdsLopes)
+](https://github.com/chdsLopes)
 
-**Banco de Dados**
-> - [Rangel](https://github.com/rangelandrade)
-> - [Junior](https://github.com/joseforneiro)
+
 
 
 
@@ -118,7 +109,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzcxNzMxMiwxNTExMTQwOTYyLC0xMj
+eyJoaXN0b3J5IjpbMTYxMzA2MzI4NCwxNTExMTQwOTYyLC0xMj
 QxMjY0OTQxLC0zMTg5NDEwMjEsLTIyMTE5MTY4MiwxOTI2MzAw
 NjU1LC0xNjY2OTg3MTI5LC0xMjQwNDE4MDE2LC0xMDM2MTM3MD
 QzLC0xMDUwOTAzNDMyLDE5Mjg2MjUxMzEsMTQyNzIzMTQzNSwx
