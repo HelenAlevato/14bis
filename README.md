@@ -7,7 +7,7 @@
 ``
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&exclude_repo=Roose_App&custom_title=)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&exclude_repo=Roose_App&custom_title=Status+Github+14BIS&layout=def)
 
 
 
@@ -114,7 +114,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzE5NTMyNywtMjU5OTE4MDQzLC0xOD
+eyJoaXN0b3J5IjpbLTQyNTY4NTgyNywtMjU5OTE4MDQzLC0xOD
 E5MzU0MTI2LC0xOTM4ODY2NzAzLDk5MjU0OTg0NiwtMjM2MTg0
 NzY3LDIwNDQwMzg2MzQsMTIyMDE4NjcyMiwxNjUwNDU3MzI3LD
 E3NTUzNjc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5
