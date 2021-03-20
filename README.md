@@ -4,10 +4,10 @@
 
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)   
   
-``
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&exclude_repo=Roose_App&custom_title=Status+Github+14BIS&show_icons=TRUE&hide=prs,issues&show_owner=TRUE)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&exclude_repo=Roose_App&custom_title=Status+Github+14BIS&show_icons=TRUE&hide=prs,issues&show_owner=TRUE%langs_count=10)
 
 
 
@@ -114,7 +114,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjc0Njk4LC0yNTk5MTgwNDMsLTE4MT
+eyJoaXN0b3J5IjpbMzQ2NzAxODkyLC0yNTk5MTgwNDMsLTE4MT
 kzNTQxMjYsLTE5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC0yMzYxODQ3
 NjcsMjA0NDAzODYzNCwxMjIwMTg2NzIyLDE2NTA0NTczMjcsMT
 c1NTM2NzgwLDE1MTExNDA5NjIsLTEyNDEyNjQ5NDEsLTMxODk0
