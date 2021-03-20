@@ -60,7 +60,7 @@
 ## P.O :dart:
 </Helen>
 
-![](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/?link=[https://github.com/HelenAlevato])</Helen>
+![](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/?link=https://github.com/HelenAlevato)</Helen>
 > [Helen](https://github.com/HelenAlevato)
 
  ---
@@ -90,7 +90,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTQxNTA0MiwtMTA1MDkwMzQzMiwxOT
+eyJoaXN0b3J5IjpbLTc1ODQ0ODc5MCwtMTA1MDkwMzQzMiwxOT
 I4NjI1MTMxLDE0MjcyMzE0MzUsMTE3MTI3ODQ0OCw1ODE0MTEw
 MTcsLTEyMDMwMTUxMjksLTE0OTU3OTU2NjUsMzE3MzMwODI4LD
 EzNzExNzc0NTIsOTk2ODk1MzM0LDk5Njg5NTMzNCwtNzYxMzYx
