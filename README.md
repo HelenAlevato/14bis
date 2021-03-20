@@ -1,9 +1,6 @@
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/mateuscamargo/14bis?style=for-the-badge)   ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)  
  
- 
-
-
----
+ ---
 ![](https://github.com/mateuscamargo/14bis/blob/main/Logo/Logo.png) 
 
 # Projeto Finger One - Embraer 
@@ -58,12 +55,14 @@
 ---
 ## P.O :dart:
 
-#### Helen 
-
+#### Helen**
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HelenAlevato)
 ](https://github.com/HelenAlevato)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevato/)](https://www.linkedin.com/in/helen-alevato/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevatomateuscamargolima/)](https://www.linkedin.com/in/helen-alevato/)mateuscamargolima/)
+
+
+
 
  ---
 ## SCRUM MASTER :robot:
@@ -83,14 +82,21 @@
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mateuscamargo)
 ](https://github.com/mateuscamargo)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/mateuscamargolima/)](https://www.linkedin.com/in/mateuscamargolima/)
-
----
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in//)](https://www.linkedin.com/in/---
 **Back-End**
 #### Flavio
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/flavioalepereira)
-](https://github.com/flavioalessandropereira)
+> - [Vitor](https://github.com/flavioalepereira)
+](https://github.com/assenvitor)
+
+---
+## DEV TEAM :computer: 
+**Front-End**
+> - [Mateus](https://github.com/mateuscamargo)
+
+**Back-End**
+> - [Flavio](https://github.com/flavioalessandropereira)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
 
 #### Carlos
@@ -110,7 +116,11 @@
 #### Junior
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joseforneiro)
-](https://github.com/joseforneiro)
+> - [Carlos](https://github.com/chdsLopes)
+
+**Banco de Dados**
+> - [Rangel](https://github.com/rangelandrade)
+> - [Junior](https://github.com/joseforneiro)
 
 
 
@@ -121,11 +131,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDEyNjQ5NDEsLTMxODk0MTAyMSwtMj
-IxMTkxNjgyLDE5MjYzMDA2NTUsLTE2NjY5ODcxMjksLTEyNDA0
-MTgwMTYsLTE0MDk2MDYyNjEsLTEwMzYxMzcwNDMsLTEwNTA5MD
-M0MzIsMTkyODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgs
-NTgxNDExMDE3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNz
-MzMDgyOCwxMzcxMTc3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQs
-LTc2MTM2MTQ0MV19
+eyJoaXN0b3J5IjpbOTgzMzkyNDM1LC0xMjQxMjY0OTQxLC0zMT
+g5NDEwMjEsLTIyMTE5MTY4MiwxOTI2MzAwNjU1LC0xNjY2OTg3
+MTI5LC0xMjQwNDE4MDE2LC0xMDM2MTM3MDQzLC0xMDUwOTAzND
+MyLDE5Mjg2MjUxMzEsMTQyNzIzMTQzNSwxMTcxMjc4NDQ4LDU4
+MTQxMTAxNywtMTIwMzAxNTEyOSwtMTQ5NTc5NTY2NSwzMTczMz
+A4MjgsMTM3MTE3NzQ1Miw5OTY4OTUzMzQsOTk2ODk1MzM0LC03
+NjEzNjE0NDFdfQ==
 -->
