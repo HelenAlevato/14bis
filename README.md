@@ -76,7 +76,7 @@
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/assenvitor)
 ](https://github.com/assenvitor)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevato/)](https://www.linkedin.com/in/helen-alevato/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/vitorassen/)](https://www.linkedin.com/in/vitorassen/)
 
 ---
 ## DEV TEAM :computer: 
@@ -100,7 +100,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjUwMjI2NTUsLTEyNDA0MTgwMTYsLT
+eyJoaXN0b3J5IjpbLTE2NjY5ODcxMjksLTEyNDA0MTgwMTYsLT
 E0MDk2MDYyNjEsLTEwMzYxMzcwNDMsLTEwNTA5MDM0MzIsMTky
 ODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgsNTgxNDExMD
 E3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNzMzMDgyOCwx
