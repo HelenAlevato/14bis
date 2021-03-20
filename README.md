@@ -71,20 +71,20 @@
  ---
 ## SCRUM MASTER :robot:
 
-> - [Vitor](https://github.com/assenvitor)
+### Vitor
 
 ---
 ## DEV TEAM :computer: 
 **Front-End**
-> - [Mateus](https://github.com/mateuscamargo)
+### [Mateus](https://github.com/mateuscamargo)
 
 **Back-End**
-> - [Flavio](https://github.com/flavioalepereira)
-> - [Carlos](https://github.com/chdsLopes)
+### [Flavio](https://github.com/flavioalepereira)
+### [Carlos](https://github.com/chdsLopes)
 
 **Banco de Dados**
-> - [Rangel](https://github.com/rangelandrade)
-> - [Junior](https://github.com/joseforneiro)
+### [Rangel](https://github.com/rangelandrade)
+###[Junior](https://github.com/joseforneiro)
 
 
 
@@ -95,11 +95,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5Mjc0MjQwLC0xMjQwNDE4MDE2LC0xND
-A5NjA2MjYxLC0xMDM2MTM3MDQzLC0xMDUwOTAzNDMyLDE5Mjg2
-MjUxMzEsMTQyNzIzMTQzNSwxMTcxMjc4NDQ4LDU4MTQxMTAxNy
-wtMTIwMzAxNTEyOSwtMTQ5NTc5NTY2NSwzMTczMzA4MjgsMTM3
-MTE3NzQ1Miw5OTY4OTUzMzQsOTk2ODk1MzM0LC03NjEzNjE0ND
-EsLTE2ODE5MTY3MTUsNDYyNzE0NzIyLDU3NjI3MDM1NSwxMTA0
-NDA3NjYyXX0=
+eyJoaXN0b3J5IjpbMTE1NDc2MTE4NywtMTI0MDQxODAxNiwtMT
+QwOTYwNjI2MSwtMTAzNjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4
+NjI1MTMxLDE0MjcyMzE0MzUsMTE3MTI3ODQ0OCw1ODE0MTEwMT
+csLTEyMDMwMTUxMjksLTE0OTU3OTU2NjUsMzE3MzMwODI4LDEz
+NzExNzc0NTIsOTk2ODk1MzM0LDk5Njg5NTMzNCwtNzYxMzYxND
+QxLC0xNjgxOTE2NzE1LDQ2MjcxNDcyMiw1NzYyNzAzNTUsMTEw
+NDQwNzY2Ml19
 -->
