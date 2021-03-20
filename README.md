@@ -103,11 +103,11 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscamargo&exclude_repo=Roose_App&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscamargo&exclude_repo=Roose_App&layout=compact)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTM0MjIyOCwtMjU5OTE4MDQzLC0xOD
+eyJoaXN0b3J5IjpbMTczNTA1MzA5OCwtMjU5OTE4MDQzLC0xOD
 E5MzU0MTI2LC0xOTM4ODY2NzAzLDk5MjU0OTg0NiwtMjM2MTg0
 NzY3LDIwNDQwMzg2MzQsMTIyMDE4NjcyMiwxNjUwNDU3MzI3LD
 E3NTUzNjc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5
