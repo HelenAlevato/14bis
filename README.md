@@ -1,5 +1,5 @@
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/mateuscamargo/14bis?style=for-the-badge)   ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)  
-
+ ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 ---
@@ -87,11 +87,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTI3ODQ0OCw1ODE0MTEwMTcsLTEyMD
-MwMTUxMjksLTE0OTU3OTU2NjUsMzE3MzMwODI4LDEzNzExNzc0
-NTIsOTk2ODk1MzM0LDk5Njg5NTMzNCwtNzYxMzYxNDQxLC0xNj
-gxOTE2NzE1LDQ2MjcxNDcyMiw1NzYyNzAzNTUsMTEwNDQwNzY2
-MiwxNjUyNjA5MTYyLDk5MjU0MDgzMCwtMTMxNzc0Mzk0NCwtMT
-AyNTA0MzQzOSw1OTMyNTQ3NjgsLTE2MTQyNzc5NjksLTE0Nzg0
-MDU1NV19
+eyJoaXN0b3J5IjpbNjQzMzUyMDk5LDExNzEyNzg0NDgsNTgxND
+ExMDE3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNzMzMDgy
+OCwxMzcxMTc3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQsLTc2MT
+M2MTQ0MSwtMTY4MTkxNjcxNSw0NjI3MTQ3MjIsNTc2MjcwMzU1
+LDExMDQ0MDc2NjIsMTY1MjYwOTE2Miw5OTI1NDA4MzAsLTEzMT
+c3NDM5NDQsLTEwMjUwNDM0MzksNTkzMjU0NzY4LC0xNjE0Mjc3
+OTY5XX0=
 -->
