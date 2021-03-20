@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/mateuscamargo/14bis?style=for-the-badge)   ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)  
  
  ---
@@ -104,7 +106,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTA3NzkxNSwxNzU1MzY3ODAsMTUxMT
+eyJoaXN0b3J5IjpbMTU1NTk0MzQ0MCwxNzU1MzY3ODAsMTUxMT
 E0MDk2MiwtMTI0MTI2NDk0MSwtMzE4OTQxMDIxLC0yMjExOTE2
 ODIsMTkyNjMwMDY1NSwtMTY2Njk4NzEyOSwtMTI0MDQxODAxNi
 wtMTAzNjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4NjI1MTMxLDE0
