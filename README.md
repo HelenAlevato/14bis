@@ -101,15 +101,15 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscamargo&exclude_repo=Roose_App)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscamargo&exclude_repo=Roose_App&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU2NTYwODcsLTE4MTkzNTQxMjYsLT
-E5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC0yMzYxODQ3NjcsMjA0NDAz
-ODYzNCwxMjIwMTg2NzIyLDE2NTA0NTczMjcsMTc1NTM2NzgwLD
-E1MTExNDA5NjIsLTEyNDEyNjQ5NDEsLTMxODk0MTAyMSwtMjIx
-MTkxNjgyLDE5MjYzMDA2NTUsLTE2NjY5ODcxMjksLTEyNDA0MT
-gwMTYsLTEwMzYxMzcwNDMsLTEwNTA5MDM0MzIsMTkyODYyNTEz
-MSwxNDI3MjMxNDM1XX0=
+eyJoaXN0b3J5IjpbLTI1OTkxODA0MywtMTgxOTM1NDEyNiwtMT
+kzODg2NjcwMyw5OTI1NDk4NDYsLTIzNjE4NDc2NywyMDQ0MDM4
+NjM0LDEyMjAxODY3MjIsMTY1MDQ1NzMyNywxNzU1MzY3ODAsMT
+UxMTE0MDk2MiwtMTI0MTI2NDk0MSwtMzE4OTQxMDIxLC0yMjEx
+OTE2ODIsMTkyNjMwMDY1NSwtMTY2Njk4NzEyOSwtMTI0MDQxOD
+AxNiwtMTAzNjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4NjI1MTMx
+LDE0MjcyMzE0MzVdfQ==
 -->
