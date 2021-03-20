@@ -100,7 +100,7 @@
 
 
 
-![Repositorio Status](https://github-readme-stats.vercel.app/api?username=mateuscamargo&repor=14bis&theme=dark&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuscamargo&repo=14bis)](https://github.com/mateuscamargo/14bis)
 
 
 
@@ -108,11 +108,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjE4NDc2NywyMDQ0MDM4NjM0LDEyMj
-AxODY3MjIsMTY1MDQ1NzMyNywxNzU1MzY3ODAsMTUxMTE0MDk2
-MiwtMTI0MTI2NDk0MSwtMzE4OTQxMDIxLC0yMjExOTE2ODIsMT
-kyNjMwMDY1NSwtMTY2Njk4NzEyOSwtMTI0MDQxODAxNiwtMTAz
-NjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4NjI1MTMxLDE0MjcyMz
-E0MzUsMTE3MTI3ODQ0OCw1ODE0MTEwMTcsLTEyMDMwMTUxMjks
-LTE0OTU3OTU2NjVdfQ==
+eyJoaXN0b3J5IjpbOTkyNTQ5ODQ2LC0yMzYxODQ3NjcsMjA0ND
+AzODYzNCwxMjIwMTg2NzIyLDE2NTA0NTczMjcsMTc1NTM2Nzgw
+LDE1MTExNDA5NjIsLTEyNDEyNjQ5NDEsLTMxODk0MTAyMSwtMj
+IxMTkxNjgyLDE5MjYzMDA2NTUsLTE2NjY5ODcxMjksLTEyNDA0
+MTgwMTYsLTEwMzYxMzcwNDMsLTEwNTA5MDM0MzIsMTkyODYyNT
+EzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgsNTgxNDExMDE3LC0x
+MjAzMDE1MTI5XX0=
 -->
