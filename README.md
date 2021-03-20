@@ -1,6 +1,4 @@
-![Status]( https://img.shields.io/badge/Status-In_progress-orange.svg ) ![Size]( https://img.shields.io/github/repo-size/assenvitor/ProjetoTecSUS?color=Green&label=Repo%20Size&logo=TecSUS&logoColor=Yellow ) ![Idioma principal do GitHub]( https://img.shields.io/github/languages/top/assenvitor/ProjetoTecSUS?color=yellow&logo=Tecsus&logoColor=yellow ) ![Último commit do GitHub]( https://img.shields.io/github/last-commit/assenvitor/ProjetoTecSUS?color=blue ) ![Github All Contributors]( https://img.shields.io/github/14bis/all-contributors/all-contributors/all-contributors/master?color=lightgrey )
-
-
+![GitHub top language](https://img.shields.io/github/languages/top/mateuscamargo/14bis?style=for-the-badge)
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)
 
 ---
@@ -88,11 +86,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg3NTkyMTcsMTM3MTE3NzQ1Miw5OT
-Y4OTUzMzQsOTk2ODk1MzM0LC03NjEzNjE0NDEsLTE2ODE5MTY3
-MTUsNDYyNzE0NzIyLDU3NjI3MDM1NSwxMTA0NDA3NjYyLDE2NT
-I2MDkxNjIsOTkyNTQwODMwLC0xMzE3NzQzOTQ0LC0xMDI1MDQz
-NDM5LDU5MzI1NDc2OCwtMTYxNDI3Nzk2OSwtMTQ3ODQwNTU1LD
-ExOTQwMjQ0MjUsMjgyMDk2ODk3LC0zODQxNzQ4NSwtNDQ3MDg2
-ODU0XX0=
+eyJoaXN0b3J5IjpbMzE3MzMwODI4LDEzNzExNzc0NTIsOTk2OD
+k1MzM0LDk5Njg5NTMzNCwtNzYxMzYxNDQxLC0xNjgxOTE2NzE1
+LDQ2MjcxNDcyMiw1NzYyNzAzNTUsMTEwNDQwNzY2MiwxNjUyNj
+A5MTYyLDk5MjU0MDgzMCwtMTMxNzc0Mzk0NCwtMTAyNTA0MzQz
+OSw1OTMyNTQ3NjgsLTE2MTQyNzc5NjksLTE0Nzg0MDU1NSwxMT
+k0MDI0NDI1LDI4MjA5Njg5NywtMzg0MTc0ODUsLTQ0NzA4Njg1
+NF19
 -->
