@@ -4,6 +4,15 @@
 
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)   
   
+`prussian`
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&hide=contribs,prs)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
  ---
 ![Logo 14BIS](https://raw.githubusercontent.com/mateuscamargo/14bis/main/Logo/Logo.png?style=for-the-badge) 
 
@@ -105,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTkxODA0MywtMTgxOTM1NDEyNiwtMT
-kzODg2NjcwMyw5OTI1NDk4NDYsLTIzNjE4NDc2NywyMDQ0MDM4
-NjM0LDEyMjAxODY3MjIsMTY1MDQ1NzMyNywxNzU1MzY3ODAsMT
-UxMTE0MDk2MiwtMTI0MTI2NDk0MSwtMzE4OTQxMDIxLC0yMjEx
-OTE2ODIsMTkyNjMwMDY1NSwtMTY2Njk4NzEyOSwtMTI0MDQxOD
-AxNiwtMTAzNjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4NjI1MTMx
-LDE0MjcyMzE0MzVdfQ==
+eyJoaXN0b3J5IjpbMTAyMTQ3NTA3OCwtMjU5OTE4MDQzLC0xOD
+E5MzU0MTI2LC0xOTM4ODY2NzAzLDk5MjU0OTg0NiwtMjM2MTg0
+NzY3LDIwNDQwMzg2MzQsMTIyMDE4NjcyMiwxNjUwNDU3MzI3LD
+E3NTUzNjc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5
+NDEwMjEsLTIyMTE5MTY4MiwxOTI2MzAwNjU1LC0xNjY2OTg3MT
+I5LC0xMjQwNDE4MDE2LC0xMDM2MTM3MDQzLC0xMDUwOTAzNDMy
+LDE5Mjg2MjUxMzFdfQ==
 -->
