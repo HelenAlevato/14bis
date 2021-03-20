@@ -5,7 +5,7 @@
 
 ---
 
-![](https://drive.google.com/file/d/1PVoEqolvYQ2etWT8VPmGx7RBifngu_Za/view?usp=sharing)
+![](https://github.com/mateuscamargo/14bis/blob/main/Logo/Logo.png)
 
 # Projeto Finger One - Embraer 
 
@@ -95,11 +95,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk2MDYyNjEsLTEwMzYxMzcwNDMsLT
-EwNTA5MDM0MzIsMTkyODYyNTEzMSwxNDI3MjMxNDM1LDExNzEy
-Nzg0NDgsNTgxNDExMDE3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1Nj
-Y1LDMxNzMzMDgyOCwxMzcxMTc3NDUyLDk5Njg5NTMzNCw5OTY4
-OTUzMzQsLTc2MTM2MTQ0MSwtMTY4MTkxNjcxNSw0NjI3MTQ3Mj
-IsNTc2MjcwMzU1LDExMDQ0MDc2NjIsMTY1MjYwOTE2Miw5OTI1
-NDA4MzBdfQ==
+eyJoaXN0b3J5IjpbMTI3Nzc5Nzk4NiwtMTQwOTYwNjI2MSwtMT
+AzNjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4NjI1MTMxLDE0Mjcy
+MzE0MzUsMTE3MTI3ODQ0OCw1ODE0MTEwMTcsLTEyMDMwMTUxMj
+ksLTE0OTU3OTU2NjUsMzE3MzMwODI4LDEzNzExNzc0NTIsOTk2
+ODk1MzM0LDk5Njg5NTMzNCwtNzYxMzYxNDQxLC0xNjgxOTE2Nz
+E1LDQ2MjcxNDcyMiw1NzYyNzAzNTUsMTEwNDQwNzY2MiwxNjUy
+NjA5MTYyXX0=
 -->
