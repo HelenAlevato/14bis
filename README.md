@@ -7,7 +7,7 @@
 ``
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&exclude_repo=Roose_App&custom_title=Status+Github+14BIS&show_icons=TRUE&hide=prs,issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&exclude_repo=Roose_App&custom_title=Status+Github+14BIS&show_icons=TRUE&hide=prs,issues&show_owner=TRUE)
 
 
 
@@ -114,7 +114,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyODYyNjQ2LC0yNTk5MTgwNDMsLTE4MT
+eyJoaXN0b3J5IjpbMTczNjc0Njk4LC0yNTk5MTgwNDMsLTE4MT
 kzNTQxMjYsLTE5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC0yMzYxODQ3
 NjcsMjA0NDAzODYzNCwxMjIwMTg2NzIyLDE2NTA0NTczMjcsMT
 c1NTM2NzgwLDE1MTExNDA5NjIsLTEyNDEyNjQ5NDEsLTMxODk0
