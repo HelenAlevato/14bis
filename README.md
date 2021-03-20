@@ -104,8 +104,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/carlos-henrique-54754a99/)](https://www.linkedin.com/in/carlos-henrique-54754a99/)
 
 **Banco de Dados**
-### [Rangel](https://github.com/rangelandrade)
-###[Junior](https://github.com/joseforneiro)
+### [Rangel
+
+![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rangelandrade)
+](https://github.com/rangelandrade)
+
+### Junior
+
+![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joseforneiro)
+](https://github.com/joseforneiro)
 
 
 
@@ -116,11 +123,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjA1NTE0NSwxOTI2MzAwNjU1LC0xNj
-Y2OTg3MTI5LC0xMjQwNDE4MDE2LC0xNDA5NjA2MjYxLC0xMDM2
-MTM3MDQzLC0xMDUwOTAzNDMyLDE5Mjg2MjUxMzEsMTQyNzIzMT
-QzNSwxMTcxMjc4NDQ4LDU4MTQxMTAxNywtMTIwMzAxNTEyOSwt
-MTQ5NTc5NTY2NSwzMTczMzA4MjgsMTM3MTE3NzQ1Miw5OTY4OT
-UzMzQsOTk2ODk1MzM0LC03NjEzNjE0NDEsLTE2ODE5MTY3MTUs
-NDYyNzE0NzIyXX0=
+eyJoaXN0b3J5IjpbLTExNzM1MTM3NzEsMTkyNjMwMDY1NSwtMT
+Y2Njk4NzEyOSwtMTI0MDQxODAxNiwtMTQwOTYwNjI2MSwtMTAz
+NjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4NjI1MTMxLDE0MjcyMz
+E0MzUsMTE3MTI3ODQ0OCw1ODE0MTEwMTcsLTEyMDMwMTUxMjks
+LTE0OTU3OTU2NjUsMzE3MzMwODI4LDEzNzExNzc0NTIsOTk2OD
+k1MzM0LDk5Njg5NTMzNCwtNzYxMzYxNDQxLC0xNjgxOTE2NzE1
+LDQ2MjcxNDcyMl19
 -->
