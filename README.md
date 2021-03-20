@@ -65,9 +65,6 @@
 ](https://github.com/HelenAlevato)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevato/)](https://www.linkedin.com/in/helen-alevato/)
 
-
-
-
  ---
 ## SCRUM MASTER :robot:
 
@@ -88,7 +85,7 @@
 ](https://github.com/mateuscamargo)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/mateuscamargolima/)](https://www.linkedin.com/in/mateuscamargolima/)
 
-
+---
 **Back-End**
 #### Flavio
 [
@@ -103,6 +100,7 @@
 ](https://github.com/chdsLopes)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/carlos-henrique-54754a99/)](https://www.linkedin.com/in/carlos-henrique-54754a99/)
 
+---
 **Banco de Dados**
 #### Rangel
 [
@@ -123,7 +121,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzk1MTM5MywtMjIxMTkxNjgyLDE5Mj
+eyJoaXN0b3J5IjpbLTMxODk0MTAyMSwtMjIxMTkxNjgyLDE5Mj
 YzMDA2NTUsLTE2NjY5ODcxMjksLTEyNDA0MTgwMTYsLTE0MDk2
 MDYyNjEsLTEwMzYxMzcwNDMsLTEwNTA5MDM0MzIsMTkyODYyNT
 EzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgsNTgxNDExMDE3LC0x
