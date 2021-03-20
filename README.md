@@ -3,7 +3,7 @@
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge) ![](https://img.shields.io/github/downloads/mateuscamargo/14bis/total.svg?style=for-the-badge)  
  
  ---
-![Logo 14BIS](https://raw.githubusercontent.com/mateuscamargo/14bis/main/Logo/Logo.png) 
+![Logo 14BIS](https://raw.githubusercontent.com/mateuscamargo/14bis/main/Logo/Logo.png?style=for-the-badge) 
 
 # Projeto Finger One - Embraer 
 
@@ -106,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDE4NjcyMiwxNjUwNDU3MzI3LDE3NT
-UzNjc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5NDEw
-MjEsLTIyMTE5MTY4MiwxOTI2MzAwNjU1LC0xNjY2OTg3MTI5LC
-0xMjQwNDE4MDE2LC0xMDM2MTM3MDQzLC0xMDUwOTAzNDMyLDE5
-Mjg2MjUxMzEsMTQyNzIzMTQzNSwxMTcxMjc4NDQ4LDU4MTQxMT
-AxNywtMTIwMzAxNTEyOSwtMTQ5NTc5NTY2NSwzMTczMzA4Mjgs
-MTM3MTE3NzQ1Ml19
+eyJoaXN0b3J5IjpbMjA0NDAzODYzNCwxMjIwMTg2NzIyLDE2NT
+A0NTczMjcsMTc1NTM2NzgwLDE1MTExNDA5NjIsLTEyNDEyNjQ5
+NDEsLTMxODk0MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2NTUsLT
+E2NjY5ODcxMjksLTEyNDA0MTgwMTYsLTEwMzYxMzcwNDMsLTEw
+NTA5MDM0MzIsMTkyODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNz
+g0NDgsNTgxNDExMDE3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1
+LDMxNzMzMDgyOF19
 -->
