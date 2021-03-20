@@ -1,10 +1,7 @@
-<p align="center">
-
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
   ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)   
 
-</p>
 
  ---
 ![Logo 14BIS](https://raw.githubusercontent.com/mateuscamargo/14bis/main/Logo/Logo.png?style=for-the-badge) 
@@ -107,11 +104,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzU3NTI3LDIxMTY1MTIyMzMsLTEwND
-kxOTI5NzYsLTI1OTkxODA0MywtMTgxOTM1NDEyNiwtMTkzODg2
-NjcwMyw5OTI1NDk4NDYsLTIzNjE4NDc2NywyMDQ0MDM4NjM0LD
-EyMjAxODY3MjIsMTY1MDQ1NzMyNywxNzU1MzY3ODAsMTUxMTE0
-MDk2MiwtMTI0MTI2NDk0MSwtMzE4OTQxMDIxLC0yMjExOTE2OD
-IsMTkyNjMwMDY1NSwtMTY2Njk4NzEyOSwtMTI0MDQxODAxNiwt
-MTAzNjEzNzA0M119
+eyJoaXN0b3J5IjpbMTI0MTUzOTExNywyMTE2NTEyMjMzLC0xMD
+Q5MTkyOTc2LC0yNTk5MTgwNDMsLTE4MTkzNTQxMjYsLTE5Mzg4
+NjY3MDMsOTkyNTQ5ODQ2LC0yMzYxODQ3NjcsMjA0NDAzODYzNC
+wxMjIwMTg2NzIyLDE2NTA0NTczMjcsMTc1NTM2NzgwLDE1MTEx
+NDA5NjIsLTEyNDEyNjQ5NDEsLTMxODk0MTAyMSwtMjIxMTkxNj
+gyLDE5MjYzMDA2NTUsLTE2NjY5ODcxMjksLTEyNDA0MTgwMTYs
+LTEwMzYxMzcwNDNdfQ==
 -->
