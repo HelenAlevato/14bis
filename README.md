@@ -67,16 +67,14 @@
 
 **<h1>Vitor**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/assenvitor)
-](https://github.com/assenvitor)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/vitorassen/)](https://www.linkedin.com/in/vitorassen/)
+](https://github.com/assenvitor)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/vitorassen/)](https://www.linkedin.com/in/vitorassen/)
 
 ---
 ## DEV TEAM :computer: 
 **Front-End**
-#### Mateus
-[
+**<h1>Mateus**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mateuscamargo)
-](https://github.com/mateuscamargo)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in//)](https://www.linkedin.com/in)
+](https://github.com/mateuscamargo)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/mateuscamargolima/)](https://www.linkedin.com/in/mateuscamargolima/)
 
 ---
 **Back-End**
@@ -93,7 +91,7 @@
 
 **Back-End**
 > - [Flavio](https://github.com/flavioalessandropereira)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
 
 #### Carlos
 
@@ -127,11 +125,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTc5ODU3NCwtMTI0MTI2NDk0MSwtMz
-E4OTQxMDIxLC0yMjExOTE2ODIsMTkyNjMwMDY1NSwtMTY2Njk4
-NzEyOSwtMTI0MDQxODAxNiwtMTAzNjEzNzA0MywtMTA1MDkwMz
-QzMiwxOTI4NjI1MTMxLDE0MjcyMzE0MzUsMTE3MTI3ODQ0OCw1
-ODE0MTEwMTcsLTEyMDMwMTUxMjksLTE0OTU3OTU2NjUsMzE3Mz
-MwODI4LDEzNzExNzc0NTIsOTk2ODk1MzM0LDk5Njg5NTMzNCwt
-NzYxMzYxNDQxXX0=
+eyJoaXN0b3J5IjpbLTE1NjIxNjI0NjMsLTEyNDEyNjQ5NDEsLT
+MxODk0MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2NTUsLTE2NjY5
+ODcxMjksLTEyNDA0MTgwMTYsLTEwMzYxMzcwNDMsLTEwNTA5MD
+M0MzIsMTkyODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgs
+NTgxNDExMDE3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNz
+MzMDgyOCwxMzcxMTc3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQs
+LTc2MTM2MTQ0MV19
 -->
