@@ -91,7 +91,7 @@
 
 **<h2>Junior**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joseforneiro)
-](https://github.com/chdsLopes)
+](https://github.com/chdsLopes)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior-0b09681b2/)](https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior-0b09681b2/)
 
 
 
@@ -104,7 +104,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MjU1NTUwLDE1MTExNDA5NjIsLTEyND
+eyJoaXN0b3J5IjpbMTc1NTM2NzgwLDE1MTExNDA5NjIsLTEyND
 EyNjQ5NDEsLTMxODk0MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2
 NTUsLTE2NjY5ODcxMjksLTEyNDA0MTgwMTYsLTEwMzYxMzcwND
 MsLTEwNTA5MDM0MzIsMTkyODYyNTEzMSwxNDI3MjMxNDM1LDEx
