@@ -62,7 +62,7 @@
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HelenAlevato)
 ](https://github.com/HelenAlevato)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/mateuscamargolima/)](https://www.linkedin.com/in/mateuscamargolima/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevato/)](https://www.linkedin.com/in/helen-alevato/)
 
 
 
