@@ -4,13 +4,13 @@
 
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)   
   
-`prussian`
+``
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&hide=contribs,prs&theme=react)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
  ---
@@ -114,7 +114,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTQ3NTA3OCwtMjU5OTE4MDQzLC0xOD
+eyJoaXN0b3J5IjpbLTYzMjI0ODMzNywtMjU5OTE4MDQzLC0xOD
 E5MzU0MTI2LC0xOTM4ODY2NzAzLDk5MjU0OTg0NiwtMjM2MTg0
 NzY3LDIwNDQwMzg2MzQsMTIyMDE4NjcyMiwxNjUwNDU3MzI3LD
 E3NTUzNjc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5
