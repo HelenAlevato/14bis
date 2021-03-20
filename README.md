@@ -73,6 +73,11 @@
 
 ### Vitor
 
+[
+![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/assenvitor)
+](https://github.com/assenvitor)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevato/)](https://www.linkedin.com/in/helen-alevato/)
+
 ---
 ## DEV TEAM :computer: 
 **Front-End**
@@ -95,11 +100,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDc2MTE4NywtMTI0MDQxODAxNiwtMT
-QwOTYwNjI2MSwtMTAzNjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4
-NjI1MTMxLDE0MjcyMzE0MzUsMTE3MTI3ODQ0OCw1ODE0MTEwMT
-csLTEyMDMwMTUxMjksLTE0OTU3OTU2NjUsMzE3MzMwODI4LDEz
-NzExNzc0NTIsOTk2ODk1MzM0LDk5Njg5NTMzNCwtNzYxMzYxND
-QxLC0xNjgxOTE2NzE1LDQ2MjcxNDcyMiw1NzYyNzAzNTUsMTEw
-NDQwNzY2Ml19
+eyJoaXN0b3J5IjpbLTIxMjUwMjI2NTUsLTEyNDA0MTgwMTYsLT
+E0MDk2MDYyNjEsLTEwMzYxMzcwNDMsLTEwNTA5MDM0MzIsMTky
+ODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgsNTgxNDExMD
+E3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNzMzMDgyOCwx
+MzcxMTc3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQsLTc2MTM2MT
+Q0MSwtMTY4MTkxNjcxNSw0NjI3MTQ3MjIsNTc2MjcwMzU1LDEx
+MDQ0MDc2NjJdfQ==
 -->
