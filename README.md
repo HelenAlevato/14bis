@@ -105,12 +105,12 @@
 
 **Banco de Dados**
 ### Rangel
-
+[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rangelandrade)
 ](https://github.com/rangelandrade)
 
 ### Junior
-
+[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joseforneiro)
 ](https://github.com/joseforneiro)
 
@@ -123,7 +123,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTI1MzIxMCwxOTI2MzAwNjU1LC0xNj
+eyJoaXN0b3J5IjpbLTIyMTE5MTY4MiwxOTI2MzAwNjU1LC0xNj
 Y2OTg3MTI5LC0xMjQwNDE4MDE2LC0xNDA5NjA2MjYxLC0xMDM2
 MTM3MDQzLC0xMDUwOTAzNDMyLDE5Mjg2MjUxMzEsMTQyNzIzMT
 QzNSwxMTcxMjc4NDQ4LDU4MTQxMTAxNywtMTIwMzAxNTEyOSwt
