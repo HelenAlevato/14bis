@@ -58,7 +58,7 @@
 ---
 ## P.O :dart:
 
-### Helen 
+#### Helen 
 
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HelenAlevato)
@@ -71,7 +71,7 @@
  ---
 ## SCRUM MASTER :robot:
 
-### Vitor
+#### Vitor
 
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/assenvitor)
@@ -81,7 +81,7 @@
 ---
 ## DEV TEAM :computer: 
 **Front-End**
-### Mateus
+#### Mateus
 
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mateuscamargo)
@@ -90,13 +90,13 @@
 
 
 **Back-End**
-### Flavio
+#### Flavio
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/flavioalepereira)
 ](https://github.com/flavioalepereira)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
 
-### Carlos
+#### Carlos
 
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/chdsLopes)
@@ -104,12 +104,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/carlos-henrique-54754a99/)](https://www.linkedin.com/in/carlos-henrique-54754a99/)
 
 **Banco de Dados**
-### Rangel
+#### Rangel
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rangelandrade)
 ](https://github.com/rangelandrade)
 
-### Junior
+#### Junior
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joseforneiro)
 ](https://github.com/joseforneiro)
@@ -123,11 +123,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTE5MTY4MiwxOTI2MzAwNjU1LC0xNj
-Y2OTg3MTI5LC0xMjQwNDE4MDE2LC0xNDA5NjA2MjYxLC0xMDM2
-MTM3MDQzLC0xMDUwOTAzNDMyLDE5Mjg2MjUxMzEsMTQyNzIzMT
-QzNSwxMTcxMjc4NDQ4LDU4MTQxMTAxNywtMTIwMzAxNTEyOSwt
-MTQ5NTc5NTY2NSwzMTczMzA4MjgsMTM3MTE3NzQ1Miw5OTY4OT
-UzMzQsOTk2ODk1MzM0LC03NjEzNjE0NDEsLTE2ODE5MTY3MTUs
-NDYyNzE0NzIyXX0=
+eyJoaXN0b3J5IjpbLTcwMzk1MTM5MywtMjIxMTkxNjgyLDE5Mj
+YzMDA2NTUsLTE2NjY5ODcxMjksLTEyNDA0MTgwMTYsLTE0MDk2
+MDYyNjEsLTEwMzYxMzcwNDMsLTEwNTA5MDM0MzIsMTkyODYyNT
+EzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgsNTgxNDExMDE3LC0x
+MjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNzMzMDgyOCwxMzcxMT
+c3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQsLTc2MTM2MTQ0MSwt
+MTY4MTkxNjcxNV19
 -->
