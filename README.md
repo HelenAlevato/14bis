@@ -98,7 +98,7 @@
 [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/chdsLopes)
 ](https://github.com/chdsLopes)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/carlos-henrique-54754a99/)](https://www.linkedin.com/in/carlos-henrique-54754a99/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-henrique-54754a99/)](https://www.linkedin.com/in/carlos-henrique-54754a99/)
 
 ---
 **Banco de Dados**
@@ -125,7 +125,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIxNjI0NjMsLTEyNDEyNjQ5NDEsLT
+eyJoaXN0b3J5IjpbLTExMjQ5ODMzMDksLTEyNDEyNjQ5NDEsLT
 MxODk0MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2NTUsLTE2NjY5
 ODcxMjksLTEyNDA0MTgwMTYsLTEwMzYxMzcwNDMsLTEwNTA5MD
 M0MzIsMTkyODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgs
