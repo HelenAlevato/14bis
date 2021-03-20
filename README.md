@@ -55,7 +55,7 @@
 ---
 ## P.O :dart:
 
-Helen**[
+**<h1>Helen** [
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HelenAlevato)
 ](https://github.com/HelenAlevato)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/helen-alevatomateuscamargolima/)](https://www.linkedin.com/in/helen-alevato)
 
@@ -65,12 +65,9 @@ Helen**[
  ---
 ## SCRUM MASTER :robot:
 
-#### Vitor
-
-[
+**<h1>Vitor**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/assenvitor)
-](https://github.com/assenvitor)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/vitorassen/)](https://www.linkedin.com/in/vitorassen/)
+](https://github.com/assenvitor)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/vitorassen/)](https://www.linkedin.com/in/vitorassen/)
 
 ---
 ## DEV TEAM :computer: 
@@ -130,11 +127,11 @@ Helen**[
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU4NDYzNzIsLTEyNDEyNjQ5NDEsLT
-MxODk0MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2NTUsLTE2NjY5
-ODcxMjksLTEyNDA0MTgwMTYsLTEwMzYxMzcwNDMsLTEwNTA5MD
-M0MzIsMTkyODYyNTEzMSwxNDI3MjMxNDM1LDExNzEyNzg0NDgs
-NTgxNDExMDE3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNz
-MzMDgyOCwxMzcxMTc3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQs
-LTc2MTM2MTQ0MV19
+eyJoaXN0b3J5IjpbLTk1OTc5ODU3NCwtMTI0MTI2NDk0MSwtMz
+E4OTQxMDIxLC0yMjExOTE2ODIsMTkyNjMwMDY1NSwtMTY2Njk4
+NzEyOSwtMTI0MDQxODAxNiwtMTAzNjEzNzA0MywtMTA1MDkwMz
+QzMiwxOTI4NjI1MTMxLDE0MjcyMzE0MzUsMTE3MTI3ODQ0OCw1
+ODE0MTEwMTcsLTEyMDMwMTUxMjksLTE0OTU3OTU2NjUsMzE3Mz
+MwODI4LDEzNzExNzc0NTIsOTk2ODk1MzM0LDk5Njg5NTMzNCwt
+NzYxMzYxNDQxXX0=
 -->
