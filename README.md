@@ -4,7 +4,6 @@
 
 
 ---
-
 ![](https://github.com/mateuscamargo/14bis/blob/main/Logo/Logo.png)
 
 # Projeto Finger One - Embraer 
@@ -95,7 +94,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Nzc5Nzk4NiwtMTQwOTYwNjI2MSwtMT
+eyJoaXN0b3J5IjpbMjAxNTUzMzQ5MiwtMTQwOTYwNjI2MSwtMT
 AzNjEzNzA0MywtMTA1MDkwMzQzMiwxOTI4NjI1MTMxLDE0Mjcy
 MzE0MzUsMTE3MTI3ODQ0OCw1ODE0MTEwMTcsLTEyMDMwMTUxMj
 ksLTE0OTU3OTU2NjUsMzE3MzMwODI4LDEzNzExNzc0NTIsOTk2
