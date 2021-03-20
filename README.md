@@ -5,6 +5,7 @@
   ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge)    ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)   
 
 </p>
+
  ---
 ![Logo 14BIS](https://raw.githubusercontent.com/mateuscamargo/14bis/main/Logo/Logo.png?style=for-the-badge) 
 
@@ -106,11 +107,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjUxMjIzMywtMTA0OTE5Mjk3NiwtMj
-U5OTE4MDQzLC0xODE5MzU0MTI2LC0xOTM4ODY2NzAzLDk5MjU0
-OTg0NiwtMjM2MTg0NzY3LDIwNDQwMzg2MzQsMTIyMDE4NjcyMi
-wxNjUwNDU3MzI3LDE3NTUzNjc4MCwxNTExMTQwOTYyLC0xMjQx
-MjY0OTQxLC0zMTg5NDEwMjEsLTIyMTE5MTY4MiwxOTI2MzAwNj
-U1LC0xNjY2OTg3MTI5LC0xMjQwNDE4MDE2LC0xMDM2MTM3MDQz
-LC0xMDUwOTAzNDMyXX0=
+eyJoaXN0b3J5IjpbMTExNzU3NTI3LDIxMTY1MTIyMzMsLTEwND
+kxOTI5NzYsLTI1OTkxODA0MywtMTgxOTM1NDEyNiwtMTkzODg2
+NjcwMyw5OTI1NDk4NDYsLTIzNjE4NDc2NywyMDQ0MDM4NjM0LD
+EyMjAxODY3MjIsMTY1MDQ1NzMyNywxNzU1MzY3ODAsMTUxMTE0
+MDk2MiwtMTI0MTI2NDk0MSwtMzE4OTQxMDIxLC0yMjExOTE2OD
+IsMTkyNjMwMDY1NSwtMTY2Njk4NzEyOSwtMTI0MDQxODAxNiwt
+MTAzNjEzNzA0M119
 -->
