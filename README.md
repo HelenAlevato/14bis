@@ -63,7 +63,7 @@
 ](https://github.com/HelenAlevato)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscamargolima/)](https://www.linkedin.com/in/mateuscamargolima/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/mateuscamargolima/)](https://www.linkedin.com/in/mateuscamargolima/)
 
 
 
@@ -95,7 +95,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzYyMTg4MiwtMTAzNjEzNzA0MywtMT
+eyJoaXN0b3J5IjpbLTg1MTg4MzkzMCwtMTAzNjEzNzA0MywtMT
 A1MDkwMzQzMiwxOTI4NjI1MTMxLDE0MjcyMzE0MzUsMTE3MTI3
 ODQ0OCw1ODE0MTEwMTcsLTEyMDMwMTUxMjksLTE0OTU3OTU2Nj
 UsMzE3MzMwODI4LDEzNzExNzc0NTIsOTk2ODk1MzM0LDk5Njg5
