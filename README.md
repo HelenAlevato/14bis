@@ -79,7 +79,7 @@
 ## Back-End
 **<h2>Flavio**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/flavioalepereira)
-](https://github.com/flavioalepereira)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
+](https://github.com/flavioalessandropereira)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=&link=https://www.linkedin.com/in/flavioapereira/)](https://www.linkedin.com/in/flavioapereira/)
 
 **<h2>Carlos**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/chdsLopes)
@@ -104,11 +104,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTUzOTExNywyMTE2NTEyMjMzLC0xMD
-Q5MTkyOTc2LC0yNTk5MTgwNDMsLTE4MTkzNTQxMjYsLTE5Mzg4
-NjY3MDMsOTkyNTQ5ODQ2LC0yMzYxODQ3NjcsMjA0NDAzODYzNC
-wxMjIwMTg2NzIyLDE2NTA0NTczMjcsMTc1NTM2NzgwLDE1MTEx
-NDA5NjIsLTEyNDEyNjQ5NDEsLTMxODk0MTAyMSwtMjIxMTkxNj
-gyLDE5MjYzMDA2NTUsLTE2NjY5ODcxMjksLTEyNDA0MTgwMTYs
-LTEwMzYxMzcwNDNdfQ==
+eyJoaXN0b3J5IjpbODU2MTc0NDA1LDEyNDE1MzkxMTcsMjExNj
+UxMjIzMywtMTA0OTE5Mjk3NiwtMjU5OTE4MDQzLC0xODE5MzU0
+MTI2LC0xOTM4ODY2NzAzLDk5MjU0OTg0NiwtMjM2MTg0NzY3LD
+IwNDQwMzg2MzQsMTIyMDE4NjcyMiwxNjUwNDU3MzI3LDE3NTUz
+Njc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5NDEwMj
+EsLTIyMTE5MTY4MiwxOTI2MzAwNjU1LC0xNjY2OTg3MTI5LC0x
+MjQwNDE4MDE2XX0=
 -->
