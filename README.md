@@ -7,7 +7,7 @@
 ``
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&exclude_repo=Roose_App&custom_title=Status+Github+14BIS&hide_rank)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscamargo&exclude_repo=Roose_App&custom_title=Status+Github+14BIS&show_icons=TRUE&hide=,,prs,issues,contribs)
 
 
 
@@ -114,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk0MDkyMTYsLTI1OTkxODA0MywtMT
-gxOTM1NDEyNiwtMTkzODg2NjcwMyw5OTI1NDk4NDYsLTIzNjE4
-NDc2NywyMDQ0MDM4NjM0LDEyMjAxODY3MjIsMTY1MDQ1NzMyNy
-wxNzU1MzY3ODAsMTUxMTE0MDk2MiwtMTI0MTI2NDk0MSwtMzE4
-OTQxMDIxLC0yMjExOTE2ODIsMTkyNjMwMDY1NSwtMTY2Njk4Nz
-EyOSwtMTI0MDQxODAxNiwtMTAzNjEzNzA0MywtMTA1MDkwMzQz
-MiwxOTI4NjI1MTMxXX0=
+eyJoaXN0b3J5IjpbNzI3NzI3NDEwLC0yNTk5MTgwNDMsLTE4MT
+kzNTQxMjYsLTE5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC0yMzYxODQ3
+NjcsMjA0NDAzODYzNCwxMjIwMTg2NzIyLDE2NTA0NTczMjcsMT
+c1NTM2NzgwLDE1MTExNDA5NjIsLTEyNDEyNjQ5NDEsLTMxODk0
+MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2NTUsLTE2NjY5ODcxMj
+ksLTEyNDA0MTgwMTYsLTEwMzYxMzcwNDMsLTEwNTA5MDM0MzIs
+MTkyODYyNTEzMV19
 -->
