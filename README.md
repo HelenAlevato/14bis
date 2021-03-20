@@ -64,10 +64,9 @@
 > [Helen](https://github.com/HelenAlevato)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscamargolima/)](https://www.linkedin.com/in/mateuscamargolima/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuscamargolima/)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
 
  ---
 ## SCRUM MASTER :robot:
@@ -96,7 +95,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzY2NTQzNiwtMTAzNjEzNzA0MywtMT
+eyJoaXN0b3J5IjpbLTEwMDA4Mjc3MiwtMTAzNjEzNzA0MywtMT
 A1MDkwMzQzMiwxOTI4NjI1MTMxLDE0MjcyMzE0MzUsMTE3MTI3
 ODQ0OCw1ODE0MTEwMTcsLTEyMDMwMTUxMjksLTE0OTU3OTU2Nj
 UsMzE3MzMwODI4LDEzNzExNzc0NTIsOTk2ODk1MzM0LDk5Njg5
