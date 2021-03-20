@@ -1,5 +1,6 @@
 ![Discord](https://img.shields.io/discord/816848656749297674?style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/mateuscamargo/14bis?style=for-the-badge)   ![GitHub repo size](https://img.shields.io/github/repo-size/mateuscamargo/14bis?style=for-the-badge)  ![GitHub contributors](https://img.shields.io/github/contributors/mateuscamargo/14bis?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/mateuscamargo/14bis?style=for-the-badge)  
- ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+ 
+ 
 
 
 ---
@@ -58,7 +59,7 @@
 ---
 ## P.O :dart:
 
-> - [Helen](https://github.com/HelenAlevato)
+> - [Helen](https://github.com/HelenAlevato) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
  ---
 ## SCRUM MASTER :robot:
@@ -87,11 +88,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMzUyMDk5LDExNzEyNzg0NDgsNTgxND
-ExMDE3LC0xMjAzMDE1MTI5LC0xNDk1Nzk1NjY1LDMxNzMzMDgy
-OCwxMzcxMTc3NDUyLDk5Njg5NTMzNCw5OTY4OTUzMzQsLTc2MT
-M2MTQ0MSwtMTY4MTkxNjcxNSw0NjI3MTQ3MjIsNTc2MjcwMzU1
-LDExMDQ0MDc2NjIsMTY1MjYwOTE2Miw5OTI1NDA4MzAsLTEzMT
-c3NDM5NDQsLTEwMjUwNDM0MzksNTkzMjU0NzY4LC0xNjE0Mjc3
-OTY5XX0=
+eyJoaXN0b3J5IjpbLTIwMjA4MjgyNywxMTcxMjc4NDQ4LDU4MT
+QxMTAxNywtMTIwMzAxNTEyOSwtMTQ5NTc5NTY2NSwzMTczMzA4
+MjgsMTM3MTE3NzQ1Miw5OTY4OTUzMzQsOTk2ODk1MzM0LC03Nj
+EzNjE0NDEsLTE2ODE5MTY3MTUsNDYyNzE0NzIyLDU3NjI3MDM1
+NSwxMTA0NDA3NjYyLDE2NTI2MDkxNjIsOTkyNTQwODMwLC0xMz
+E3NzQzOTQ0LC0xMDI1MDQzNDM5LDU5MzI1NDc2OCwtMTYxNDI3
+Nzk2OV19
 -->
