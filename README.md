@@ -12,10 +12,10 @@
 
 - **Nome do Grupo:** 14 BIS
 - **Nome do Software:**  Finger One
-- **Visão do Produto:** -   Fornecer suporte para a criação de um software, onde o usuário terá uma facilidade em customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF.
+- **Visão do Produto:** Fornecer suporte para a criação de um software, onde o usuário terá uma facilidade em customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF.
      
  - **Objetivo do Produto:** 
-   -  -   Sanar e simplificar o cadastro de informações pelos digitadores fazendo com que eles tenham um desempenho melhor.
+   -   Sanar e simplificar a geração de fragmentos que irão compar o armazenamento em PDF.
   
 - **Problema (Desafio):** 
 
@@ -103,7 +103,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzkxNDI1MSw4NTYxNzQ0MDUsMTI0MT
+eyJoaXN0b3J5IjpbLTY0MjI1MjM1MSw4NTYxNzQ0MDUsMTI0MT
 UzOTExNywyMTE2NTEyMjMzLC0xMDQ5MTkyOTc2LC0yNTk5MTgw
 NDMsLTE4MTkzNTQxMjYsLTE5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC
 0yMzYxODQ3NjcsMjA0NDAzODYzNCwxMjIwMTg2NzIyLDE2NTA0
