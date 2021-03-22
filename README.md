@@ -23,7 +23,7 @@
 
 - **Proposta:**
 
-	-   Após contato com a empresa, levantamos que eles querem simplificar o processo e ser mais assertivo ocorrem porque as empresas que fornecem energia ou água não seguem os mesmos padrões de dados, pois cada localidade pode ter um fornecedor diferente. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
+	-   Após contato com a empresa, levantamos que eles querem simplificar o processo e ser mais assertivo. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
 
 ---
 
@@ -104,11 +104,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ0MDQ4Myw4NTYxNzQ0MDUsMTI0MT
-UzOTExNywyMTE2NTEyMjMzLC0xMDQ5MTkyOTc2LC0yNTk5MTgw
-NDMsLTE4MTkzNTQxMjYsLTE5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC
-0yMzYxODQ3NjcsMjA0NDAzODYzNCwxMjIwMTg2NzIyLDE2NTA0
-NTczMjcsMTc1NTM2NzgwLDE1MTExNDA5NjIsLTEyNDEyNjQ5ND
-EsLTMxODk0MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2NTUsLTE2
-NjY5ODcxMjldfQ==
+eyJoaXN0b3J5IjpbOTU4MjcyMDUzLDg1NjE3NDQwNSwxMjQxNT
+M5MTE3LDIxMTY1MTIyMzMsLTEwNDkxOTI5NzYsLTI1OTkxODA0
+MywtMTgxOTM1NDEyNiwtMTkzODg2NjcwMyw5OTI1NDk4NDYsLT
+IzNjE4NDc2NywyMDQ0MDM4NjM0LDEyMjAxODY3MjIsMTY1MDQ1
+NzMyNywxNzU1MzY3ODAsMTUxMTE0MDk2MiwtMTI0MTI2NDk0MS
+wtMzE4OTQxMDIxLC0yMjExOTE2ODIsMTkyNjMwMDY1NSwtMTY2
+Njk4NzEyOV19
 -->
