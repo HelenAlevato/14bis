@@ -15,14 +15,15 @@
 - **Visão do Produto:** Fornecer suporte para a criação de um software, onde o usuário terá uma facilidade em customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF.
      
  - **Objetivo do Produto:** 
-   -   Sanar e simplificar a geração de fragmentos que irão compar o armazenamento em PDF.
+	  -   Sanar e simplificar a geração de fragmentos que irão compor o armazenamento em PDF.
   
 - **Problema (Desafio):** 
 
-- Desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras especificas para gerar o documento final.
+	- Desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras especificas para gerar o documento final.
 
 - **Proposta:**
 
+	-   Após contato com a empresa, levantamos que eles querem simplificar o processo e ser mais assertivo ocorrem porque as empresas que fornecem energia ou água não seguem os mesmos padrões de dados, pois cada localidade pode ter um fornecedor diferente. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
 
 ---
 
@@ -103,7 +104,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjI1MjM1MSw4NTYxNzQ0MDUsMTI0MT
+eyJoaXN0b3J5IjpbLTE5MTQ0MDQ4Myw4NTYxNzQ0MDUsMTI0MT
 UzOTExNywyMTE2NTEyMjMzLC0xMDQ5MTkyOTc2LC0yNTk5MTgw
 NDMsLTE4MTkzNTQxMjYsLTE5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC
 0yMzYxODQ3NjcsMjA0NDAzODYzNCwxMjIwMTg2NzIyLDE2NTA0
