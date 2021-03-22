@@ -48,7 +48,7 @@
 
 ---
 # FERRAMENTAS: :wrench:
-> - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
+> - [GitHub](https://trello.com/b/EW0XA8qH/finger-one)
 > - [Trello](https://trello.com)
 > - [Adobe XD](https://www.adobe.com/)
 > - [StackEdit]( https://stackedit.io/)
@@ -104,11 +104,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODUzODY3OSw4NTYxNzQ0MDUsMTI0MT
-UzOTExNywyMTE2NTEyMjMzLC0xMDQ5MTkyOTc2LC0yNTk5MTgw
-NDMsLTE4MTkzNTQxMjYsLTE5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC
-0yMzYxODQ3NjcsMjA0NDAzODYzNCwxMjIwMTg2NzIyLDE2NTA0
-NTczMjcsMTc1NTM2NzgwLDE1MTExNDA5NjIsLTEyNDEyNjQ5ND
-EsLTMxODk0MTAyMSwtMjIxMTkxNjgyLDE5MjYzMDA2NTUsLTE2
-NjY5ODcxMjldfQ==
+eyJoaXN0b3J5IjpbLTE2NDY2Njc0NDksODU2MTc0NDA1LDEyND
+E1MzkxMTcsMjExNjUxMjIzMywtMTA0OTE5Mjk3NiwtMjU5OTE4
+MDQzLC0xODE5MzU0MTI2LC0xOTM4ODY2NzAzLDk5MjU0OTg0Ni
+wtMjM2MTg0NzY3LDIwNDQwMzg2MzQsMTIyMDE4NjcyMiwxNjUw
+NDU3MzI3LDE3NTUzNjc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OT
+QxLC0zMTg5NDEwMjEsLTIyMTE5MTY4MiwxOTI2MzAwNjU1LC0x
+NjY2OTg3MTI5XX0=
 -->
