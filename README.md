@@ -94,7 +94,7 @@
 
 **<h2>Junior**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joseforneiro)
-](https://github.com/joseforneiro)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior-0b09681b2/)](https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior-0b09681b2/)
+](https://github.com/joseforneiro)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior-0b09681b2/)](https://www.linkedin.com/in/josé-francisco-forneiro-junior)
 
 
 
