@@ -4,7 +4,7 @@
 
 
  ---
-![Logo 14BIS](https://raw.githubusercontent.com/mateuscamargo/14bis/main/Logo/Logo.png?style=for-the-badge) 
+![Logo 14BIS](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Logo/Logo.png) 
 
 # Projeto Finger One - Embraer 
 
