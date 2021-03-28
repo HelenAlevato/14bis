@@ -35,6 +35,8 @@
 - **Proposta:** 
 Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
+> - [Prototipação](https://trello.com/b/aNkC5KBo/fingerone)
+
 **Tempo da Sprint:** 18/03/2021 á 28/03/2021
 
 ---
@@ -107,11 +109,11 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDYyNjg5Niw2Njg0NTI4MjgsLTEzNz
-gwNzg3NDQsLTE2NTU4OTczMTksLTcwNjQ5MjU4MiwtMTE2NzQ1
-OTIzLC0yNTk4MTgxNDksMTY1MTc0MDgwOSwtMTkyMjQyMDAxNS
-wxMTE4ODI4ODQxLDQ4NDg5MjI1LDkwNjM1NzA3Miw4NTYxNzQ0
-MDUsMTI0MTUzOTExNywyMTE2NTEyMjMzLC0xMDQ5MTkyOTc2LC
-0yNTk5MTgwNDMsLTE4MTkzNTQxMjYsLTE5Mzg4NjY3MDMsOTky
-NTQ5ODQ2XX0=
+eyJoaXN0b3J5IjpbLTEwNTE4ODU4MzUsMTY0MDYyNjg5Niw2Nj
+g0NTI4MjgsLTEzNzgwNzg3NDQsLTE2NTU4OTczMTksLTcwNjQ5
+MjU4MiwtMTE2NzQ1OTIzLC0yNTk4MTgxNDksMTY1MTc0MDgwOS
+wtMTkyMjQyMDAxNSwxMTE4ODI4ODQxLDQ4NDg5MjI1LDkwNjM1
+NzA3Miw4NTYxNzQ0MDUsMTI0MTUzOTExNywyMTE2NTEyMjMzLC
+0xMDQ5MTkyOTc2LC0yNTk5MTgwNDMsLTE4MTkzNTQxMjYsLTE5
+Mzg4NjY3MDNdfQ==
 -->
