@@ -33,7 +33,7 @@
 
 
 - **Proposta:** 
-Na primeira Sprint, a equipe se reuniu juntamente com o cliente a sanarrealizou a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+Na primeira Sprint, a equipe se reuniu juntamente com o cliente a entender e sanar dúvidas para a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
 
 Entendimento do projeto juntamente com 
@@ -111,11 +111,11 @@ Entendimento do projeto juntamente com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU4OTczMTksLTUyMzA2NzAyNiwtNz
-A2NDkyNTgyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQw
-ODA5LC0xOTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOT
-A2MzU3MDcyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIy
-MzMsLTEwNDkxOTI5NzYsLTI1OTkxODA0MywtMTgxOTM1NDEyNi
-wtMTkzODg2NjcwMyw5OTI1NDk4NDYsLTIzNjE4NDc2NywyMDQ0
-MDM4NjM0XX0=
+eyJoaXN0b3J5IjpbLTE0MTAwMDA5NDEsLTE2NTU4OTczMTksLT
+cwNjQ5MjU4MiwtMTE2NzQ1OTIzLC0yNTk4MTgxNDksMTY1MTc0
+MDgwOSwtMTkyMjQyMDAxNSwxMTE4ODI4ODQxLDQ4NDg5MjI1LD
+kwNjM1NzA3Miw4NTYxNzQ0MDUsMTI0MTUzOTExNywyMTE2NTEy
+MjMzLC0xMDQ5MTkyOTc2LC0yNTk5MTgwNDMsLTE4MTkzNTQxMj
+YsLTE5Mzg4NjY3MDMsOTkyNTQ5ODQ2LC0yMzYxODQ3NjcsMjA0
+NDAzODYzNF19
 -->
