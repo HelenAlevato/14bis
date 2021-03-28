@@ -52,7 +52,7 @@
 ---
 # FERRAMENTAS: :wrench:
 > - [GitHub](https://trello.com/b/EW0XA8qH/finger-one)
-> - [Trello](https://trello.com/invite/b/aNkC5KBo/bde953f7596e6a6cc36ac43e3a0b16cb/fingerone)
+> - [Trello](https://trello.com/pt-BR)
 > - [Adobe XD](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
 > - [StackEdit]( https://stackedit.io/)
 > - [Ecplise](https://www.eclipse.org/downloads/)
@@ -107,7 +107,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDQ0ODcwNCwxNjUxNzQwODA5LC0xOT
+eyJoaXN0b3J5IjpbLTI1OTgxODE0OSwxNjUxNzQwODA5LC0xOT
 IyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOTA2MzU3MDcy
 LDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIyMzMsLTEwND
 kxOTI5NzYsLTI1OTkxODA0MywtMTgxOTM1NDEyNiwtMTkzODg2
