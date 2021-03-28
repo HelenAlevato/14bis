@@ -36,10 +36,10 @@
 Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação da jornada do usuário, Story Cards e prototipar. No protótipo foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
 
-> - [Jornada do Usuário;](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Jornada%20do%20Usu%C3%A1rio/Jornada%20do%20Usu%C3%A1rio.pdf)
-> - [Breadboarding;](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Breadboarding/Breadboarding.jpg)
-> - [Story Cards;](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Story%20Card/Story%20Card.pdf)
-> - [Prototipação.](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
+> - [Jornada do Usuário](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Jornada%20do%20Usu%C3%A1rio/Jornada%20do%20Usu%C3%A1rio.pdf)
+> - [Breadboarding](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Breadboarding/Breadboarding.jpg)
+> - [Story Cards](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Story%20Card/Story%20Card.pdf)
+> - [Prototipação](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
 
 **Tempo da Sprint:** 18/03/2021 á 28/03/2021
 
@@ -113,11 +113,11 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE1NDg2MTUsMTY0MDYyNjg5Niw2Nj
-g0NTI4MjgsLTEzNzgwNzg3NDQsLTE2NTU4OTczMTksLTcwNjQ5
-MjU4MiwtMTE2NzQ1OTIzLC0yNTk4MTgxNDksMTY1MTc0MDgwOS
-wtMTkyMjQyMDAxNSwxMTE4ODI4ODQxLDQ4NDg5MjI1LDkwNjM1
-NzA3Miw4NTYxNzQ0MDUsMTI0MTUzOTExNywyMTE2NTEyMjMzLC
-0xMDQ5MTkyOTc2LC0yNTk5MTgwNDMsLTE4MTkzNTQxMjYsLTE5
-Mzg4NjY3MDNdfQ==
+eyJoaXN0b3J5IjpbLTgyNzEwNzA2NiwtMTQ0MTU0ODYxNSwxNj
+QwNjI2ODk2LDY2ODQ1MjgyOCwtMTM3ODA3ODc0NCwtMTY1NTg5
+NzMxOSwtNzA2NDkyNTgyLC0xMTY3NDU5MjMsLTI1OTgxODE0OS
+wxNjUxNzQwODA5LC0xOTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0
+ODkyMjUsOTA2MzU3MDcyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LD
+IxMTY1MTIyMzMsLTEwNDkxOTI5NzYsLTI1OTkxODA0MywtMTgx
+OTM1NDEyNl19
 -->
