@@ -50,7 +50,7 @@
 # FERRAMENTAS: :wrench:
 > - [GitHub](https://trello.com/b/EW0XA8qH/finger-one)
 > - [Trello](https://trello.com/invite/b/aNkC5KBo/bde953f7596e6a6cc36ac43e3a0b16cb/fingerone)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html)
+> - [Adobe XD](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
 > - [StackEdit]( https://stackedit.io/)
 > - [Ecplise](https://www.eclipse.org/downloads/)
 > - [MySql](https://www.mysql.com/)
@@ -104,11 +104,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODgyODg0MSw0ODQ4OTIyNSw5MDYzNT
-cwNzIsODU2MTc0NDA1LDEyNDE1MzkxMTcsMjExNjUxMjIzMywt
-MTA0OTE5Mjk3NiwtMjU5OTE4MDQzLC0xODE5MzU0MTI2LC0xOT
-M4ODY2NzAzLDk5MjU0OTg0NiwtMjM2MTg0NzY3LDIwNDQwMzg2
-MzQsMTIyMDE4NjcyMiwxNjUwNDU3MzI3LDE3NTUzNjc4MCwxNT
-ExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5NDEwMjEsLTIyMTE5
-MTY4Ml19
+eyJoaXN0b3J5IjpbLTE5MjI0MjAwMTUsMTExODgyODg0MSw0OD
+Q4OTIyNSw5MDYzNTcwNzIsODU2MTc0NDA1LDEyNDE1MzkxMTcs
+MjExNjUxMjIzMywtMTA0OTE5Mjk3NiwtMjU5OTE4MDQzLC0xOD
+E5MzU0MTI2LC0xOTM4ODY2NzAzLDk5MjU0OTg0NiwtMjM2MTg0
+NzY3LDIwNDQwMzg2MzQsMTIyMDE4NjcyMiwxNjUwNDU3MzI3LD
+E3NTUzNjc4MCwxNTExMTQwOTYyLC0xMjQxMjY0OTQxLC0zMTg5
+NDEwMjFdfQ==
 -->
