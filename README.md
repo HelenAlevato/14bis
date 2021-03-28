@@ -36,6 +36,9 @@
 Na primeira Sprint, a equipe realizou a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
 
+Entendimento do projeto juntamente com 
+
+
 **Tempo da Sprint:** 18/03/2021 á 28/03/2021
 
 ---
@@ -108,11 +111,11 @@ Na primeira Sprint, a equipe realizou a criação de Wireframe e Story Cards. No
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDUwODk2MywtNzA2NDkyNTgyLC0xMT
-Y3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQwODA5LC0xOTIyNDIw
-MDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOTA2MzU3MDcyLDg1Nj
-E3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIyMzMsLTEwNDkxOTI5
-NzYsLTI1OTkxODA0MywtMTgxOTM1NDEyNiwtMTkzODg2NjcwMy
-w5OTI1NDk4NDYsLTIzNjE4NDc2NywyMDQ0MDM4NjM0LDEyMjAx
-ODY3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE0MzI2MTY1NzUsLTY1NDUwODk2MywtNz
+A2NDkyNTgyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQw
+ODA5LC0xOTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOT
+A2MzU3MDcyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIy
+MzMsLTEwNDkxOTI5NzYsLTI1OTkxODA0MywtMTgxOTM1NDEyNi
+wtMTkzODg2NjcwMyw5OTI1NDk4NDYsLTIzNjE4NDc2NywyMDQ0
+MDM4NjM0XX0=
 -->
