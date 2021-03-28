@@ -33,7 +33,7 @@
 
 
 - **Proposta:** 
-Na primeira Sprint, a equipe se reuniu juntamente com o cliente a entender e sanar dúvidas para a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+Na primeira Sprint, a equipe se reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
 
 Entendimento do projeto juntamente com 
@@ -111,7 +111,7 @@ Entendimento do projeto juntamente com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAwMDA5NDEsLTE2NTU4OTczMTksLT
+eyJoaXN0b3J5IjpbLTExNzMzNTE4MzAsLTE2NTU4OTczMTksLT
 cwNjQ5MjU4MiwtMTE2NzQ1OTIzLC0yNTk4MTgxNDksMTY1MTc0
 MDgwOSwtMTkyMjQyMDAxNSwxMTE4ODI4ODQxLDQ4NDg5MjI1LD
 kwNjM1NzA3Miw4NTYxNzQ0MDUsMTI0MTUzOTExNywyMTE2NTEy
