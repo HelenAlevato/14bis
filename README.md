@@ -33,7 +33,7 @@
 
 
 - **Proposta:** 
-Na primeira Sprint, a equipe realizou a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+Na primeira Sprint, a equipe se reuniu juntamente com o cliente a sanarrealizou a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
 
 Entendimento do projeto juntamente com 
@@ -111,7 +111,7 @@ Entendimento do projeto juntamente com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI2MTY1NzUsLTY1NDUwODk2MywtNz
+eyJoaXN0b3J5IjpbLTUyMzA2NzAyNiwtMTQzMjYxNjU3NSwtNz
 A2NDkyNTgyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQw
 ODA5LC0xOTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOT
 A2MzU3MDcyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIy
