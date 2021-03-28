@@ -33,8 +33,9 @@
 
 
 - **Proposta:** 
-Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação da jornada do usuário, Story Cards e prototipar. No protótipo foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
+> - [Prototipação](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
 > - [Prototipação](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
 
 **Tempo da Sprint:** 18/03/2021 á 28/03/2021
@@ -109,7 +110,7 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDM3ODgxNywxNjQwNjI2ODk2LDY2OD
+eyJoaXN0b3J5IjpbMTIxNTk4OTc4MiwxNjQwNjI2ODk2LDY2OD
 Q1MjgyOCwtMTM3ODA3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDky
 NTgyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQwODA5LC
 0xOTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOTA2MzU3
