@@ -29,7 +29,7 @@
 
 # SPRINTS: :gear:
 
-[Sprint 01]()
+[Sprint 01](https://github.com/mateuscamargo/14bis/tree/main/Sprint%2001)
 
 
 - **Proposta:** 
@@ -111,7 +111,7 @@ Entendimento do projeto juntamente com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzA2NzAyNiwtMTQzMjYxNjU3NSwtNz
+eyJoaXN0b3J5IjpbLTE2NTU4OTczMTksLTUyMzA2NzAyNiwtNz
 A2NDkyNTgyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQw
 ODA5LC0xOTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOT
 A2MzU3MDcyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIy
