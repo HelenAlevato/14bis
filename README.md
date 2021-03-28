@@ -35,7 +35,7 @@
 - **Proposta:** 
 Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
-> - [Prototipação](https://trello.com/b/aNkC5KBo/fingerone)
+> - [Prototipação](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
 
 **Tempo da Sprint:** 18/03/2021 á 28/03/2021
 
@@ -55,7 +55,7 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 # FERRAMENTAS: :wrench:
 > - [GitHub](https://trello.com/b/EW0XA8qH/finger-one)
 > - [Trello](https://trello.com/pt-BR)
-> - [Adobe XD](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
+> - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 > - [StackEdit]( https://stackedit.io/)
 > - [Ecplise](https://www.eclipse.org/downloads/)
 > - [MySql](https://www.mysql.com/)
@@ -109,11 +109,11 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE4ODU4MzUsMTY0MDYyNjg5Niw2Nj
-g0NTI4MjgsLTEzNzgwNzg3NDQsLTE2NTU4OTczMTksLTcwNjQ5
-MjU4MiwtMTE2NzQ1OTIzLC0yNTk4MTgxNDksMTY1MTc0MDgwOS
-wtMTkyMjQyMDAxNSwxMTE4ODI4ODQxLDQ4NDg5MjI1LDkwNjM1
-NzA3Miw4NTYxNzQ0MDUsMTI0MTUzOTExNywyMTE2NTEyMjMzLC
-0xMDQ5MTkyOTc2LC0yNTk5MTgwNDMsLTE4MTkzNTQxMjYsLTE5
-Mzg4NjY3MDNdfQ==
+eyJoaXN0b3J5IjpbLTUwNDM3ODgxNywxNjQwNjI2ODk2LDY2OD
+Q1MjgyOCwtMTM3ODA3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDky
+NTgyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQwODA5LC
+0xOTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOTA2MzU3
+MDcyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIyMzMsLT
+EwNDkxOTI5NzYsLTI1OTkxODA0MywtMTgxOTM1NDEyNiwtMTkz
+ODg2NjcwM119
 -->
