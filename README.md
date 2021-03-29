@@ -104,7 +104,7 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 **<h2>Junior**[
 ![Github Badge](http://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/joseforneiro)
-](https://github.com/joseforneiro)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior-0b09681b2/)](https://www.linkedin.com/in/josé-francisco-forneiro-junior)
+](https://github.com/joseforneiro)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos-francisco-forneiro-junior)](https://www.linkedin.com/in/josé-francisco-forneiro-junior)
 
 
 
@@ -114,11 +114,11 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTEyNDAwODUsLTgyNzEwNzA2NiwtMT
-Q0MTU0ODYxNSwxNjQwNjI2ODk2LDY2ODQ1MjgyOCwtMTM3ODA3
-ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDkyNTgyLC0xMTY3NDU5Mj
-MsLTI1OTgxODE0OSwxNjUxNzQwODA5LC0xOTIyNDIwMDE1LDEx
-MTg4Mjg4NDEsNDg0ODkyMjUsOTA2MzU3MDcyLDg1NjE3NDQwNS
-wxMjQxNTM5MTE3LDIxMTY1MTIyMzMsLTEwNDkxOTI5NzYsLTI1
-OTkxODA0M119
+eyJoaXN0b3J5IjpbLTEyMDIzOTQzNjMsLTE5OTEyNDAwODUsLT
+gyNzEwNzA2NiwtMTQ0MTU0ODYxNSwxNjQwNjI2ODk2LDY2ODQ1
+MjgyOCwtMTM3ODA3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDkyNT
+gyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQwODA5LC0x
+OTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOTA2MzU3MD
+cyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIyMzMsLTEw
+NDkxOTI5NzZdfQ==
 -->
