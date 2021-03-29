@@ -108,18 +108,12 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 ](https://github.com/joseforneiro)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jos-francisco-forneiro-junior)](https://www.linkedin.com/in/josé-francisco-forneiro-junior)
 
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscamargo&exclude_repo=Roose_App&layout=compact)
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzYyMDE0OCwtMTIzNjc5NDYxNiwzND
-k3NDI5ODIsLTE2MjkzMDQ5MDgsMTc3MDcwMTU2OCwtMTEzNTk1
-MjUzLC0xMDk1MjgxMDAwLC0xMjAyMzk0MzYzLC0xOTkxMjQwMD
-g1LC04MjcxMDcwNjYsLTE0NDE1NDg2MTUsMTY0MDYyNjg5Niw2
-Njg0NTI4MjgsLTEzNzgwNzg3NDQsLTE2NTU4OTczMTksLTcwNj
-Q5MjU4MiwtMTE2NzQ1OTIzLC0yNTk4MTgxNDksMTY1MTc0MDgw
-OSwtMTkyMjQyMDAxNV19
+eyJoaXN0b3J5IjpbLTIxNDIyODA1MzQsMTYyMzYyMDE0OCwtMT
+IzNjc5NDYxNiwzNDk3NDI5ODIsLTE2MjkzMDQ5MDgsMTc3MDcw
+MTU2OCwtMTEzNTk1MjUzLC0xMDk1MjgxMDAwLC0xMjAyMzk0Mz
+YzLC0xOTkxMjQwMDg1LC04MjcxMDcwNjYsLTE0NDE1NDg2MTUs
+MTY0MDYyNjg5Niw2Njg0NTI4MjgsLTEzNzgwNzg3NDQsLTE2NT
+U4OTczMTksLTcwNjQ5MjU4MiwtMTE2NzQ1OTIzLC0yNTk4MTgx
+NDksMTY1MTc0MDgwOV19
 -->
