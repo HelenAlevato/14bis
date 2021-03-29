@@ -6,12 +6,12 @@
  ---
 ![Logo 14BIS](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Logo/Logo.png) 
 
-# Projeto Finger One - Embraer 
+# Projeto 14 BIS - Embraer 
 
 ## DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA EMBRAER. :chart_with_upwards_trend:
 
-- **Nome do Grupo:** 14 BIS
-- **Nome do Software:**  Finger One
+- **Nome do Grupo:** Finger One
+- **Nome do Software:**  14 BIS
 - **Visão do Produto:** Fornecer suporte para a criação de um software, onde o usuário terá uma facilidade em customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF.
      
  - **Objetivo do Produto:** 
