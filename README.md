@@ -4,7 +4,7 @@
 
 
  ---
-![Logo 14BIS](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Logo/Logo.png =240x240) 
+![Logo 14BIS](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Logo/Logo.png=240x240) 
 
 # Projeto Finger One - Embraer 
 
@@ -115,11 +115,11 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc5NTQ5MCwzNDk3NDI5ODIsLTE2Mj
-kzMDQ5MDgsMTc3MDcwMTU2OCwtMTEzNTk1MjUzLC0xMDk1Mjgx
-MDAwLC0xMjAyMzk0MzYzLC0xOTkxMjQwMDg1LC04MjcxMDcwNj
-YsLTE0NDE1NDg2MTUsMTY0MDYyNjg5Niw2Njg0NTI4MjgsLTEz
-NzgwNzg3NDQsLTE2NTU4OTczMTksLTcwNjQ5MjU4MiwtMTE2Nz
-Q1OTIzLC0yNTk4MTgxNDksMTY1MTc0MDgwOSwtMTkyMjQyMDAx
-NSwxMTE4ODI4ODQxXX0=
+eyJoaXN0b3J5IjpbMTcxODUxNDc0LDM0OTc0Mjk4MiwtMTYyOT
+MwNDkwOCwxNzcwNzAxNTY4LC0xMTM1OTUyNTMsLTEwOTUyODEw
+MDAsLTEyMDIzOTQzNjMsLTE5OTEyNDAwODUsLTgyNzEwNzA2Ni
+wtMTQ0MTU0ODYxNSwxNjQwNjI2ODk2LDY2ODQ1MjgyOCwtMTM3
+ODA3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDkyNTgyLC0xMTY3ND
+U5MjMsLTI1OTgxODE0OSwxNjUxNzQwODA5LC0xOTIyNDIwMDE1
+LDExMTg4Mjg4NDFdfQ==
 -->
