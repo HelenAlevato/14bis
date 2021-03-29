@@ -39,7 +39,7 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 > - [Jornada do Usuário](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Jornada%20do%20Usu%C3%A1rio/Jornada%20do%20Usu%C3%A1rio.pdf)
 > - [Breadboarding](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Breadboarding/Breadboarding.jpg)
 > - [Story Cards](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Story%20Card/Story%20Card.pdf)
-> - [Prototipação](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off)
+> - [Prototipação](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=off&_blank)
 
 **Tempo da Sprint:** 18/03/2021 á 28/03/2021
 
@@ -114,11 +114,11 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIzOTQzNjMsLTE5OTEyNDAwODUsLT
-gyNzEwNzA2NiwtMTQ0MTU0ODYxNSwxNjQwNjI2ODk2LDY2ODQ1
-MjgyOCwtMTM3ODA3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDkyNT
-gyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwxNjUxNzQwODA5LC0x
-OTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0ODkyMjUsOTA2MzU3MD
-cyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIxMTY1MTIyMzMsLTEw
-NDkxOTI5NzZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTUyODEwMDAsLTEyMDIzOTQzNjMsLT
+E5OTEyNDAwODUsLTgyNzEwNzA2NiwtMTQ0MTU0ODYxNSwxNjQw
+NjI2ODk2LDY2ODQ1MjgyOCwtMTM3ODA3ODc0NCwtMTY1NTg5Nz
+MxOSwtNzA2NDkyNTgyLC0xMTY3NDU5MjMsLTI1OTgxODE0OSwx
+NjUxNzQwODA5LC0xOTIyNDIwMDE1LDExMTg4Mjg4NDEsNDg0OD
+kyMjUsOTA2MzU3MDcyLDg1NjE3NDQwNSwxMjQxNTM5MTE3LDIx
+MTY1MTIyMzNdfQ==
 -->
