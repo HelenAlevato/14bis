@@ -63,8 +63,8 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 > - [Trello](https://trello.com/pt-BR)
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 > - [StackEdit]( https://stackedit.io/)
-> - [Ecplise](https://www.eclipse.org/downloads/)
-> - [MySql](https://www.mysql.com/)
+> - [PostgreSQL](https://www.postgresql.org/)
+> - [Intellij](https://www.jetbrains.com/pt-br/idea/)
 
 ---
 # P.O :dart:
