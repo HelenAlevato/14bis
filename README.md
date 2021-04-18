@@ -25,7 +25,7 @@
 
 	-   Após contato com a empresa, levantamos que eles querem simplificar o processo e ser mais assertivo. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
 
--**IMPORTANTE**
+**IMPORTANTE**
 [TUTORIAL DE NAVEGAÇÃO NO BACKLOG](https://drive.google.com/file/d/1M6tj-AvHyw14xrYS4S1WNT2xYyuvYpj6/view?usp=sharing)
 ---
 
@@ -124,11 +124,11 @@ Na segunda Sprint, a equipe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjg1NTQzNiw2MjQxNTg4ODcsLTIxND
-IyODA1MzQsMTYyMzYyMDE0OCwtMTIzNjc5NDYxNiwzNDk3NDI5
-ODIsLTE2MjkzMDQ5MDgsMTc3MDcwMTU2OCwtMTEzNTk1MjUzLC
-0xMDk1MjgxMDAwLC0xMjAyMzk0MzYzLC0xOTkxMjQwMDg1LC04
-MjcxMDcwNjYsLTE0NDE1NDg2MTUsMTY0MDYyNjg5Niw2Njg0NT
-I4MjgsLTEzNzgwNzg3NDQsLTE2NTU4OTczMTksLTcwNjQ5MjU4
-MiwtMTE2NzQ1OTIzXX0=
+eyJoaXN0b3J5IjpbNDMxNDMxODE1LDYyNDE1ODg4NywtMjE0Mj
+I4MDUzNCwxNjIzNjIwMTQ4LC0xMjM2Nzk0NjE2LDM0OTc0Mjk4
+MiwtMTYyOTMwNDkwOCwxNzcwNzAxNTY4LC0xMTM1OTUyNTMsLT
+EwOTUyODEwMDAsLTEyMDIzOTQzNjMsLTE5OTEyNDAwODUsLTgy
+NzEwNzA2NiwtMTQ0MTU0ODYxNSwxNjQwNjI2ODk2LDY2ODQ1Mj
+gyOCwtMTM3ODA3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDkyNTgy
+LC0xMTY3NDU5MjNdfQ==
 -->
