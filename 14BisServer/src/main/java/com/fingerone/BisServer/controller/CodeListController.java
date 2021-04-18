@@ -20,9 +20,9 @@ import com.fingerone.BisServer.model.CodeList;
 import com.fingerone.BisServer.service.ExcelService;
 
 
-@CrossOrigin("http://localhost:8081")
+@CrossOrigin("http://localhost:3000")
 @Controller
-@RequestMapping("/api/excel")
+@RequestMapping("/api/codelist")
 public class CodeListController {
 
 	@Autowired
@@ -48,7 +48,7 @@ public class CodeListController {
 		return ResponseEntity.status(HttpStatus.BAD_REQUEST).body(new ResponseMessage(message));
 	}
 
-	@GetMapping("/codelists")
+	@GetMapping
 	public ResponseEntity<List<CodeList>> getAllTutorials() {
 		try {
 			List<CodeList> tutorials = fileService.getAllCodelists();
