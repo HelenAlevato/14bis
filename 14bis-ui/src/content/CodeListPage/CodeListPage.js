@@ -1,5 +1,5 @@
 import { Button, Tabs, Tab } from 'carbon-components-react';
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import {
     DataTable,
     Table,
@@ -13,92 +13,49 @@ import {
     TableToolbarContent
   } from 'carbon-components-react';
 import { TableSplit24 } from '@carbon/icons-react';
-
-const rows = [
-    {
-      id: 'a',
-      secao: '00',
-      subsecao: '-',
-      blocknumber: '00',
-      blockname: 'Letter',
-      code: '50',
-      remarks: '-50',
-    },
-    {
-      id: 'a',
-      secao: '00',
-      subsecao: '-',
-      blocknumber: '00',
-      blockname: 'Letter',
-      code: '50',
-      remarks: '-55, -60',
-    },
-    {
-      id: 'a',
-      secao: '00',
-      subsecao: '-',
-      blocknumber: '00',
-      blockname: 'Cover',
-      code: '50',
-      remarks: '-60',
-    },
-    {
-      id: 'a',
-      secao: '00',
-      subsecao: '-',
-      blocknumber: '00',
-      blockname: 'Cover',
-      code: '50',
-      remarks: '-50',
-    },
-    {
-      id: 'a',
-      secao: '00',
-      subsecao: '-',
-      blocknumber: '00',
-      blockname: 'LEP',
-      code: '50',
-      remarks: '-50',
-    },
-    {
-      id: 'a',
-      secao: '00',
-      subsecao: '-',
-      blocknumber: '00',
-      blockname: 'LEP',
-      code: '50',
-      remarks: '-50',
-    },
-  ];
   
-  const headers = [
-    {
-      key: 'secao',
-      header: 'Nº Seção',
-    },
-    {
-      key: 'subsecao',
-      header: 'Nº Subseção',
-    },
-    {
-      key: 'blocknumber',
-      header: 'Nº Block',
-    },
-    {
-      key: 'blockname',
-      header: 'Block Name',
-    },
-    {
-      key: 'code',
-      header: 'Code',
-    },
-    {
-      key: 'remarks',
-      header: 'Remarks',
-    },
-  ];
+const headers = [
+  {
+    key: 'secao',
+    header: 'Nº Seção',
+  },
+  {
+    key: 'subSecao',
+    header: 'Nº Subseção',
+  },
+  {
+    key: 'bloco',
+    header: 'Nº Block',
+  },
+  {
+    key: 'nomeBloco',
+    header: 'Block Name',
+  },
+  {
+    key: 'codigo',
+    header: 'Code',
+  },
+  {
+    key: 'aplicabilidade',
+    header: 'Remarks',
+  },
+  {
+    key: 'tag',
+    header: 'Tag',
+  },
+];
 
 const CodeListPage = () => {
+  var [rows, setRows] = useState([]);
+  var [isLoaded, setLoaded] = useState(false);
+  
+  useEffect(async () => {
+    if (!isLoaded) {
+      setRows(await fetch("http://localhost:8585/api/excel/codelists").then(response => response.json()))
+      setLoaded(true);
+    }
+  })
+
   return (
     
     <TableContainer title="Nome do manual" description="Tabela do Codelist">
