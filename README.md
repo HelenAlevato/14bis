@@ -49,21 +49,18 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 - **Proposta:** 
-Na segunda Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação da jornada do usuário, Story Cards e prototipar. No protótipo foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+Na segunda Sprint, a equipe 
 
 
-> - [Jornada do Usuário](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Jornada%20do%20Usu%C3%A1rio/Jornada%20do%20Usu%C3%A1rio.pdf)
-> - [Breadboarding](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Breadboarding/Breadboarding.jpg)
-> - [Story Cards](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Story%20Card/Story%20Card.pdf)
-> - [Prototipação](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=on&target=_blank)
 
 
-**Tempo da Sprint:** 18/03/2021 á 28/03/2021
+**Tempo da Sprint:** 29/03/2021 á 18/04/2021
 
 ---
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: :movie_camera:
 
 > - [Video 01](https://drive.google.com/file/d/1z1kAAvrW83RMbLDnKUsQwPb9B3he_bMQ/view?usp=sharing)
+> > - [Video 02](https://drive.google.com/file/)
 
 
 ---
@@ -124,11 +121,11 @@ Na segunda Sprint, a equipe reuniu juntamente com o cliente para o entendimento 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODc2ODM2MSwtMjE0MjI4MDUzNCwxNj
-IzNjIwMTQ4LC0xMjM2Nzk0NjE2LDM0OTc0Mjk4MiwtMTYyOTMw
-NDkwOCwxNzcwNzAxNTY4LC0xMTM1OTUyNTMsLTEwOTUyODEwMD
-AsLTEyMDIzOTQzNjMsLTE5OTEyNDAwODUsLTgyNzEwNzA2Niwt
-MTQ0MTU0ODYxNSwxNjQwNjI2ODk2LDY2ODQ1MjgyOCwtMTM3OD
-A3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDkyNTgyLC0xMTY3NDU5
-MjMsLTI1OTgxODE0OV19
+eyJoaXN0b3J5IjpbNjQxOTM5Nzg1LC0yMTQyMjgwNTM0LDE2Mj
+M2MjAxNDgsLTEyMzY3OTQ2MTYsMzQ5NzQyOTgyLC0xNjI5MzA0
+OTA4LDE3NzA3MDE1NjgsLTExMzU5NTI1MywtMTA5NTI4MTAwMC
+wtMTIwMjM5NDM2MywtMTk5MTI0MDA4NSwtODI3MTA3MDY2LC0x
+NDQxNTQ4NjE1LDE2NDA2MjY4OTYsNjY4NDUyODI4LC0xMzc4MD
+c4NzQ0LC0xNjU1ODk3MzE5LC03MDY0OTI1ODIsLTExNjc0NTky
+MywtMjU5ODE4MTQ5XX0=
 -->
