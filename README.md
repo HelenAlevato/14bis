@@ -60,7 +60,7 @@ Na segunda Sprint, a equipe
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: :movie_camera:
 
 > - [Video 01](https://drive.google.com/file/d/1z1kAAvrW83RMbLDnKUsQwPb9B3he_bMQ/view?usp=sharing)
-> > - [Video 02](https://drive.google.com/file/)
+> - [Video 02](https://drive.google.com/file/)
 
 
 ---
@@ -121,7 +121,7 @@ Na segunda Sprint, a equipe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxOTM5Nzg1LC0yMTQyMjgwNTM0LDE2Mj
+eyJoaXN0b3J5IjpbNjI0MTU4ODg3LC0yMTQyMjgwNTM0LDE2Mj
 M2MjAxNDgsLTEyMzY3OTQ2MTYsMzQ5NzQyOTgyLC0xNjI5MzA0
 OTA4LDE3NzA3MDE1NjgsLTExMzU5NTI1MywtMTA5NTI4MTAwMC
 wtMTIwMjM5NDM2MywtMTk5MTI0MDA4NSwtODI3MTA3MDY2LC0x
