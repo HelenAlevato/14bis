@@ -1,7 +1,9 @@
-import { Button, Content } from 'carbon-components-react';
+import { Content } from 'carbon-components-react';
 import React, { Component } from 'react';
-import MainHeader from './components/MainHeader'
+import { Route, Switch } from 'react-router';
 import './app.scss';
+import MainHeader from './components/MainHeader';
+import HomePage from './content/HomePage/HomePage';
 
 class App extends Component {
   render() {
@@ -9,7 +11,9 @@ class App extends Component {
       <>
         <MainHeader></MainHeader>
         <Content>
-          <Button>Hello World</Button>
+        <Switch>
+            <Route exact path="/" component={HomePage} />
+        </Switch>
         </Content>
       </>
     );
