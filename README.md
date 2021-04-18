@@ -45,7 +45,22 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 **Tempo da Sprint:** 18/03/2021 á 28/03/2021
 
 ---
+[Sprint 02]
 
+
+- **Proposta:** 
+Na segunda Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação da jornada do usuário, Story Cards e prototipar. No protótipo foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+
+
+> - [Jornada do Usuário](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Jornada%20do%20Usu%C3%A1rio/Jornada%20do%20Usu%C3%A1rio.pdf)
+> - [Breadboarding](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Breadboarding/Breadboarding.jpg)
+> - [Story Cards](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Story%20Card/Story%20Card.pdf)
+> - [Prototipação](https://xd.adobe.com/view/d9c94c80-0c3b-4e4c-b7ef-f79f48b58c8a-8c9a/?fullscreen&hints=on&target=_blank)
+
+
+**Tempo da Sprint:** 18/03/2021 á 28/03/2021
+
+---
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: :movie_camera:
 
 > - [Video 01](https://drive.google.com/file/d/1z1kAAvrW83RMbLDnKUsQwPb9B3he_bMQ/view?usp=sharing)
@@ -109,11 +124,11 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIyODA1MzQsMTYyMzYyMDE0OCwtMT
-IzNjc5NDYxNiwzNDk3NDI5ODIsLTE2MjkzMDQ5MDgsMTc3MDcw
-MTU2OCwtMTEzNTk1MjUzLC0xMDk1MjgxMDAwLC0xMjAyMzk0Mz
-YzLC0xOTkxMjQwMDg1LC04MjcxMDcwNjYsLTE0NDE1NDg2MTUs
-MTY0MDYyNjg5Niw2Njg0NTI4MjgsLTEzNzgwNzg3NDQsLTE2NT
-U4OTczMTksLTcwNjQ5MjU4MiwtMTE2NzQ1OTIzLC0yNTk4MTgx
-NDksMTY1MTc0MDgwOV19
+eyJoaXN0b3J5IjpbMTEzODc2ODM2MSwtMjE0MjI4MDUzNCwxNj
+IzNjIwMTQ4LC0xMjM2Nzk0NjE2LDM0OTc0Mjk4MiwtMTYyOTMw
+NDkwOCwxNzcwNzAxNTY4LC0xMTM1OTUyNTMsLTEwOTUyODEwMD
+AsLTEyMDIzOTQzNjMsLTE5OTEyNDAwODUsLTgyNzEwNzA2Niwt
+MTQ0MTU0ODYxNSwxNjQwNjI2ODk2LDY2ODQ1MjgyOCwtMTM3OD
+A3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDkyNTgyLC0xMTY3NDU5
+MjMsLTI1OTgxODE0OV19
 -->
