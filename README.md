@@ -26,7 +26,7 @@
 	-   Após contato com a empresa, levantamos que eles querem simplificar o processo e ser mais assertivo. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
 
 -**IMPORTANTE**
-[TUTORIAL DE NAVEGAÇÃO NO BACKLOG](https://github.com/mateuscamargo/14bis/tree/main/Sprint%2001)
+[TUTORIAL DE NAVEGAÇÃO NO BACKLOG](https://drive.google.com/file/d/1M6tj-AvHyw14xrYS4S1WNT2xYyuvYpj6/view?usp=sharing)
 ---
 
 # SPRINTS: :gear:
@@ -123,11 +123,11 @@ Na segunda Sprint, a equipe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAwNDgxMTMsNjI0MTU4ODg3LC0yMT
-QyMjgwNTM0LDE2MjM2MjAxNDgsLTEyMzY3OTQ2MTYsMzQ5NzQy
-OTgyLC0xNjI5MzA0OTA4LDE3NzA3MDE1NjgsLTExMzU5NTI1My
-wtMTA5NTI4MTAwMCwtMTIwMjM5NDM2MywtMTk5MTI0MDA4NSwt
-ODI3MTA3MDY2LC0xNDQxNTQ4NjE1LDE2NDA2MjY4OTYsNjY4ND
-UyODI4LC0xMzc4MDc4NzQ0LC0xNjU1ODk3MzE5LC03MDY0OTI1
-ODIsLTExNjc0NTkyM119
+eyJoaXN0b3J5IjpbNDE4NzgzNjg2LDYyNDE1ODg4NywtMjE0Mj
+I4MDUzNCwxNjIzNjIwMTQ4LC0xMjM2Nzk0NjE2LDM0OTc0Mjk4
+MiwtMTYyOTMwNDkwOCwxNzcwNzAxNTY4LC0xMTM1OTUyNTMsLT
+EwOTUyODEwMDAsLTEyMDIzOTQzNjMsLTE5OTEyNDAwODUsLTgy
+NzEwNzA2NiwtMTQ0MTU0ODYxNSwxNjQwNjI2ODk2LDY2ODQ1Mj
+gyOCwtMTM3ODA3ODc0NCwtMTY1NTg5NzMxOSwtNzA2NDkyNTgy
+LC0xMTY3NDU5MjNdfQ==
 -->
