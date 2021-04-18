@@ -51,7 +51,7 @@ const CodeListPage = () => {
   
   useEffect(async () => {
     if (!isLoaded) {
-      setRows(await fetch("http://localhost:8585/api/excel/codelists").then(response => response.json()))
+      setRows(await fetch("http://localhost:8585/api/codelist").then(response => response.json()))
       setLoaded(true);
     }
   })

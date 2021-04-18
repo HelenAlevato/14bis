@@ -18,7 +18,7 @@ import {
 } from 'carbon-components-react';
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-import { Link } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 
 var desenharCadastro = false;
 
@@ -55,58 +55,69 @@ const headers = [
   },
 ];
 
-
-
 const HomePage = () => {
   const [open, setOpen] = useState(false);
+  const [file, setFile] = useState();
+  const history = useHistory();
+  
+  const redirectToCodelist = async () => {
+    if (file) {
+      const formData = new FormData()
+      formData.append('file', file)
+
+      const opcoesRequest = {
+        method: 'POST',
+        body: formData
+      };
+
+      await fetch('http://localhost:8585/api/codelist/upload', opcoesRequest)
+        .catch(err => console.log(err))
+        .then(response => response.json())
+        .then(data => history.push("/CodeList")
+      );
+    }
+  }
+
+  const atribuirArquivo = (data) => {
+    setFile(data.target.files[0]);
+  }
 
   return (
     <>
       {typeof document === 'undefined'
         ? null
         : ReactDOM.createPortal(
-            // <ComposedModal open={open} onClose={() => setOpen(false)}>
-            // <ModalHeader />
-            //     <ModalBody>
-            //         <p className="bx--modal-content__text">
-            //         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-            //         cursus fermentum risus, sit amet fringilla nunc pellentesque quis. Duis
-            //         quis odio ultrices, cursus lacus ac, posuere felis. Donec dignissim libero
-            //         in augue mattis, a molestie metus vestibulum. Aliquam placerat felis
-            //         ultrices lorem condimentum, nec ullamcorper felis porttitor.
-            //         </p>
-            //     </ModalBody>
-            // </ComposedModal>,
-            <Modal
-              open={open}
-              onRequestClose={() => setOpen(false)}
-              modalHeading="Criar um novo manual"
-              modalLabel="Recursos do manual"
-              primaryButtonText="Add"
-              secondaryButtonText="Cancel">
-              <p style={{ marginBottom: '1rem' }}>
-                Preencha os campos abaixo conforme o manual a ser cadastrado.
+          <Modal
+            open={open}
+            onRequestClose={() => setOpen(false)}
+            onRequestSubmit={() => redirectToCodelist()}
+            modalHeading="Criar um novo manual"
+            modalLabel="Recursos do manual"
+            primaryButtonText="Add"
+            secondaryButtonText="Cancel">
+            <p style={{ marginBottom: '1rem' }}>
+              Preencha os campos abaixo conforme o manual a ser cadastrado.
               </p>
-              <TextInput
-                data-modal-primary-focus
-                id="text-input-1"
-                labelTitle="Nome do manual"
-                placeholder="ex: ABC-1234"
-                style={{ marginBottom: '1rem' }}
-              />
-              <FileUploader
-                  labelTitle="Arquivo Codelist"
-                  labelDescription="apenas arquivos .jpg e .png de 500 MB ou menos"
-                  buttonLabel="Add Codelist"
-                  filenameStatus="edit"
-                  accept={[".xlsx", ".xltx"]}
-                  onChange={console.log}
-                  name="file"
-                  multiple={true}
-              />
-            </Modal>,
-            document.body
-          )}
+            <TextInput
+              data-modal-primary-focus
+              id="text-input-1"
+              labelTitle="Nome do manual"
+              placeholder="ex: ABC-1234"
+              style={{ marginBottom: '1rem' }}
+            />
+            <FileUploader
+              labelTitle="Arquivo Codelist"
+              labelDescription="Apenas arquivos Excel"
+              buttonLabel="Add Codelist"
+              filenameStatus="edit"
+              accept={[".xlsx", ".xltx"]}
+              onChange={(data) => atribuirArquivo(data)}
+              name="file"
+              multiple={true}
+            />
+          </Modal>,
+          document.body
+        )}
       <DataTable rows={rows} headers={headers}>
         {({
           rows,
@@ -123,13 +134,13 @@ const HomePage = () => {
                 {/* pass in `onInputChange` change here to make filtering work */}
                 <TableToolbarSearch onChange={onInputChange} />
                 <TableToolbarMenu>
-                  <TableToolbarAction onClick={() => {}}>
+                  <TableToolbarAction onClick={() => { }}>
                     Action 1
                   </TableToolbarAction>
-                  <TableToolbarAction onClick={() => {}}>
+                  <TableToolbarAction onClick={() => { }}>
                     Action 2
                   </TableToolbarAction>
-                  <TableToolbarAction onClick={() => {}}>
+                  <TableToolbarAction onClick={() => { }}>
                     Action 3
                   </TableToolbarAction>
                 </TableToolbarMenu>
