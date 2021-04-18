@@ -30,11 +30,11 @@ const MainHeader = () => (
           onClick={onClickSideNavExpand}
           isActive={isSideNavExpanded}
         />
-        <HeaderName href="/" prefix="IBM">
-          Carbon Tutorial
+        <HeaderName href="/" prefix="14Bis">
+          Embraer
         </HeaderName>
-        <HeaderNavigation aria-label="Carbon Tutorial">
-          <HeaderMenuItem href="/repos">Repositories</HeaderMenuItem>
+        <HeaderNavigation aria-label="14Bis">
+          <HeaderMenuItem href="/CodeList">Codelist</HeaderMenuItem>
         </HeaderNavigation>
         <SideNav
           aria-label="Side navigation"
