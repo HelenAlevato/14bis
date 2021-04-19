@@ -51,10 +51,37 @@ Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento
 
 
 - **Proposta:** 
-Na segunda Sprint, a equipe 
+#### **Front-end**
 
+- Estruturação do projeto para o desenvolvimento da parte do front-end, utilizando React e Carbon
 
+- Implementação parcial da tabela Manual
 
+- Implementação parcial da página de Codelist
+
+- Junção do front-end com o banco de dados
+
+- Informar arquivo excel para extração do codelist pelo Front-end
+
+#### **Back-end**
+
+- Criação e estruturação do Back-end
+
+- Implementação de resposta da API para utilização das requisições
+
+- Definição de propriedades para o projeto, pelo application.properties
+
+- Mapeamento do CodeList.java com o banco de dados (Cria uma tabela no Banco de dados de acordo com a classe CodeList.java)
+
+- Extração de dados do excel para a CodeList
+
+- Implementação do controller exception
+
+#### **Banco de Dados**
+
+- Modelo lógico do banco de dados 
+
+- Documentação do banco de dados
 
 **Tempo da Sprint:** 29/03/2021 á 18/04/2021
 
