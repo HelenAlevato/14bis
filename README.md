@@ -112,6 +112,6 @@
 
 <a href="https://www.linkedin.com/in/rangel-andrade-38130b65/"> <img src= "https://img.shields.io/badge/Rangel Andrade%20(Banco de Dados)-Linkedin-blue"> </a>
 
-<a href="https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior/"> <img src= "https://img.shields.io/badge/José Francisco Forneiro Junior%20(Banco de Dasos)-Linkedin-blue"> </a> 
+<a href="https://www.linkedin.com/in/jos%C3%A9-francisco-forneiro-junior/"> <img src= "https://img.shields.io/badge/José Francisco Forneiro Junior%20(Banco de Dados)-Linkedin-blue"> </a> 
 
 
