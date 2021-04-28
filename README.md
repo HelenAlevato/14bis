@@ -46,7 +46,7 @@
 ---
 # Sprint 02 :gear:
 
-[Vídeo de apresentação (clique aqui)](https://drive.google.com/file/)
+[Vídeo de apresentação (clique aqui)](https://drive.google.com/file/d/1lt3xcRcKnIKPIQOTp-l6H_UrTQgLrEW1/view?usp=sharing)
 
 
  **Proposta:** Nessa entrega foi definido a criação de um sistema React voltado a serviço, onde o usuário consiga extrair dados da codelist. Fizemos a implementação, os itens dessa entrega são: 
