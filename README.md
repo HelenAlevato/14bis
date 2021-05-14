@@ -72,6 +72,7 @@
 - Documentação do banco de dados.
 
 **Tempo da Sprint:** 29/03/2021 á 18/04/2021
+
 ---
 
 # Sprint 03 :gear:
@@ -80,6 +81,7 @@
 
 
 **Tempo da Sprint:** 26/04/2021 á 16/05/2021
+
 ---
 
 # Sprint 04 :gear:
@@ -88,6 +90,7 @@
 
 
 **Tempo da Sprint:** 17/05/2021 á 05/06/2021
+
 ---
 
 ## PRODUCT BACKLOG: :book: 
@@ -133,5 +136,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUzMTc4MTEsMTg3NTAyODQ3M119
+eyJoaXN0b3J5IjpbLTY0Mzk2MTY5NywtMTM2NTMxNzgxMSwxOD
+c1MDI4NDczXX0=
 -->
