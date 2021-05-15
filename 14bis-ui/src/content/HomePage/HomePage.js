@@ -1,3 +1,4 @@
+import { OverflowMenuVertical24 } from '@carbon/icons-react';
 import {
   Button,
   DataTable,
@@ -14,8 +15,12 @@ import {
   TableToolbarMenu,
   TableToolbarSearch,
   TextInput,
-  FileUploader
+  FileUploader,
+  TooltipIcon,
+  OverflowMenuItem
 } from 'carbon-components-react';
+import { OverflowMenu } from 'carbon-components-react/lib/components/OverflowMenu/OverflowMenu';
+import { Tooltip } from 'carbon-components-react/lib/components/Tooltip/Tooltip';
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
 import { useHistory } from 'react-router-dom';
@@ -27,20 +32,27 @@ const rows = [
     id: 'a',
     manuais: 'ABC-1234',
     URL: 'c://Embraer/...',
+    CreationDate: '',
   },
   {
     id: 'b',
     manuais: 'DEF-5678',
     URL: 'c://Embraer/...',
+    CreationDate: '',
   },
   {
     id: 'c',
     manuais: 'GHI-9101',
     URL: 'c://Embraer/...',
+    CreationDate: '',
   },
 ];
 
 const headers = [
+  {
+    key: 'actions',
+    header: '',
+  },
   {
     key: 'manuais',
     header: 'Manuais',
@@ -56,10 +68,11 @@ const headers = [
 ];
 
 const HomePage = () => {
-  const [open, setOpen] = useState(false);
+  // status do modal de manual, pode ser: "create" ou "edit"
+  const [manualModalConfig, setManualModalConfig] = useState({open: false, status: "create"});
   const [file, setFile] = useState();
   const history = useHistory();
-  
+
   const redirectToCodelist = async () => {
     if (file) {
       const formData = new FormData()
@@ -74,7 +87,7 @@ const HomePage = () => {
         .catch(err => console.log(err))
         .then(response => response.json())
         .then(data => history.push("/CodeList")
-      );
+        );
     }
   }
 
@@ -88,23 +101,28 @@ const HomePage = () => {
         ? null
         : ReactDOM.createPortal(
           <Modal
-            open={open}
-            onRequestClose={() => setOpen(false)}
-            onRequestSubmit={() => redirectToCodelist()}
-            modalHeading="Criar um novo manual"
+            open={manualModalConfig.open}
+            onRequestClose={() => setManualModalConfig({open: false})}
+            onRequestSubmit={() => manualModalConfig.status === "create" ? redirectToCodelist() : setManualModalConfig({open: false})}
+            modalHeading={manualModalConfig.status === "create" ? "Criar um novo manual" : "Editar Manual"}
             modalLabel="Recursos do manual"
-            primaryButtonText="Add"
+            primaryButtonText="Save"
             secondaryButtonText="Cancel">
-            <p style={{ marginBottom: '1rem' }}>
-              Preencha os campos abaixo conforme o manual a ser cadastrado.
-              </p>
-            <TextInput
-              data-modal-primary-focus
-              id="text-input-1"
-              labelTitle="Nome do manual"
-              placeholder="ex: ABC-1234"
-              style={{ marginBottom: '1rem' }}
-            />
+            {manualModalConfig.status === "create" ? (
+              <>
+                <p style={{ marginBottom: '1rem' }}>
+                Preencha os campos abaixo conforme o manual a ser cadastrado.
+                </p>
+                <TextInput
+                  data-modal-primary-focus
+                  id="text-input-1"
+                  labelTitle="Nome do manual"
+                  placeholder="ex: ABC-1234"
+                  style={{ marginBottom: '1rem' }}
+                />
+              </>
+            ) : <></>}
+            
             <FileUploader
               labelTitle="Arquivo Codelist"
               labelDescription="Apenas arquivos Excel"
@@ -144,7 +162,7 @@ const HomePage = () => {
                     Action 3
                   </TableToolbarAction>
                 </TableToolbarMenu>
-                <Button onClick={() => setOpen(true)}>Cadastrar Manual</Button>
+                <Button onClick={() => setManualModalConfig({open: true, status: "create"})}>Cadastrar Manual</Button>
               </TableToolbarContent>
             </TableToolbar>
             <Table {...getTableProps()}>
@@ -162,9 +180,17 @@ const HomePage = () => {
               <TableBody>
                 {rows.map(row => (
                   <TableRow key={row.id} {...getRowProps({ row })}>
-                    {row.cells.map(cell => (
+                    <TableCell key={"actions"}>
+                      <OverflowMenu selectorPrimaryFocus={'.optionTwo'}>
+                        <OverflowMenuItem 
+                          onClick={() => setManualModalConfig({open: true, status: "edit"})}
+                          itemText="Editar Manual"
+                        />
+                      </OverflowMenu>
+                    </TableCell>
+                    {row.cells.map(cell => cell.value !== undefined ? (
                       <TableCell key={cell.id}>{cell.value}</TableCell>
-                    ))}
+                    ) : <></>)}
                   </TableRow>
                 ))}
               </TableBody>
