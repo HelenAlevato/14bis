@@ -12,7 +12,7 @@
 
 - **Nome do Grupo:** Finger One
 - **Nome do Software:**  14 BIS
-- **Visão do Produto:** Fornecer suporte para a criação de um software, onde o usuário terá uma facilidade em customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF.
+- **Visão do Produto:** Fornece suporte para a criação de um software, onde o usuário terá uma facilidade em customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF.
      
  - **Objetivo do Produto:** 
 	  -   Sanar e simplificar a geração de fragmentos que irão compor o armazenamento em PDF.
@@ -33,7 +33,7 @@
 **[Vídeo de apresentação (clique aqui)](https://drive.google.com/file/d/1z1kAAvrW83RMbLDnKUsQwPb9B3he_bMQ/view?usp=sharing)**
 
 
-**Proposta:** Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação da jornada do usuário, Story Cards e prototipar. No protótipo foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+**Proposta:** Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação da jornada do usuário, Story Cards e protótipo. No protótipo foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
 
 - [Jornada do Usuário (clique aqui)](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Jornada%20do%20Usu%C3%A1rio/Jornada%20do%20Usu%C3%A1rio.pdf)
