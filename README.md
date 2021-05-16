@@ -77,7 +77,11 @@
 
 # Sprint 03 :gear:
 
+<blockquote class="trello-card"><a href="https://trello.com/c/LwIRvx1c/20-30-atualiza%C3%A7%C3%A3o-do-documento-da-lep">3.0 - ATUALIZAÇÃO DO DOCUMENTO DA LEP</a></blockquote><script src="https://p.trellocdn.com/embed.min.js"></script>
 
+<blockquote class="trello-card"><a href="https://trello.com/c/Sq9lLHQf/21-40-implementa%C3%A7%C3%A3o-da-lep">4.0 - IMPLEMENTAÇÃO DA LEP</a></blockquote><script src="https://p.trellocdn.com/embed.min.js"></script>
+
+<blockquote class="trello-card"><a href="https://trello.com/c/4xwvYBhO/22-50-visualiza%C3%A7%C3%A3o-da-lep">5.0 - VISUALIZAÇÃO DA LEP</a></blockquote><script src="https://p.trellocdn.com/embed.min.js"></script>
 
 
 **Tempo da Sprint:** 26/04/2021 á 16/05/2021
