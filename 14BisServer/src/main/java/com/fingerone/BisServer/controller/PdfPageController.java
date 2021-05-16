@@ -16,8 +16,11 @@ import com.fingerone.BisServer.model.ProcessPdfResponse;
 import com.fingerone.BisServer.repository.PdfPageRepository;
 import com.fingerone.BisServer.service.PdfPageService;
 
+import io.swagger.annotations.Api;
+
 @RestController
 @RequestMapping("pdfpage")
+@Api(value = "PDF Page")
 public class PdfPageController {
     @Autowired
     private PdfPageRepository pdfPageRepository;

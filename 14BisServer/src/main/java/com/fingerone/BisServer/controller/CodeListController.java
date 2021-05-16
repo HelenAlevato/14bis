@@ -19,10 +19,13 @@ import com.fingerone.BisServer.message.ResponseMessage;
 import com.fingerone.BisServer.model.CodeList;
 import com.fingerone.BisServer.service.ExcelService;
 
+import io.swagger.annotations.Api;
+
 
 @CrossOrigin("http://localhost:3000")
 @Controller
 @RequestMapping("/api/codelist")
+@Api(value = "Codelist")
 public class CodeListController {
 
 	@Autowired
