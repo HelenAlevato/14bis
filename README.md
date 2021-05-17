@@ -94,11 +94,9 @@
 
 <blockquote class="trello-card"><a href="https://trello.com/c/GQ2J2gBI/51-burndown">BURNDOWN</a></blockquote>
 
-
 **Para mais informações sobre os documentos da matéria de FGTI clique no link abaixo:**
 
 <blockquote> <a href="https://github.com/mateuscamargo/14bis/tree/main/Documentos%20de%20FGTI"> DOCUMENTOS DE FGTI </a> </blockquote>
-
 
 **Tempo da Sprint:** 26/04/2021 á 16/05/2021
 
