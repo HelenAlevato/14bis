@@ -15,8 +15,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.fingerone.BisServer.entity.User;
 import com.fingerone.BisServer.repository.UserRepository;
 
+import io.swagger.annotations.Api;
+
 @RestController
 @RequestMapping("user")
+@Api(value = "User")
 public class UserController {
     @Autowired
     private UserRepository userRepository;

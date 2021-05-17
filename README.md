@@ -12,7 +12,7 @@
 
 - **Nome do Grupo:** Finger One
 - **Nome do Software:**  14 BIS
-- **Visão do Produto:** Fornecer suporte para a criação de um software, onde o usuário terá uma facilidade em customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF.
+- **Visão do Produto:** Fornece suporte para a criação de um software, onde o usuário terá uma facilidade em customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF.
      
  - **Objetivo do Produto:** 
 	  -   Sanar e simplificar a geração de fragmentos que irão compor o armazenamento em PDF.
@@ -33,7 +33,7 @@
 **[Vídeo de apresentação (clique aqui)](https://drive.google.com/file/d/1z1kAAvrW83RMbLDnKUsQwPb9B3he_bMQ/view?usp=sharing)**
 
 
-**Proposta:** Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação da jornada do usuário, Story Cards e prototipar. No protótipo foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+**Proposta:** Na primeira Sprint, a equipe reuniu juntamente com o cliente para o entendimento do projeto e sanar dúvidas para a criação da jornada do usuário, Story Cards e protótipo. No protótipo foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
 
 - [Jornada do Usuário (clique aqui)](https://github.com/mateuscamargo/14bis/blob/main/Sprint%2001/Jornada%20do%20Usu%C3%A1rio/Jornada%20do%20Usu%C3%A1rio.pdf)
@@ -77,7 +77,27 @@
 
 # Sprint 03 :gear:
 
+**Story Cards**
 
+
+**Para mais informações sobre os Story Cards clique no link abaixo:**
+
+
+<blockquote class="trello-card"><a href="https://trello.com/c/LwIRvx1c/20-30-atualiza%C3%A7%C3%A3o-do-documento-da-lep">3.0 - ATUALIZAÇÃO DO DOCUMENTO DA LEP</a></blockquote>
+
+<blockquote class="trello-card"><a href="https://trello.com/c/Sq9lLHQf/21-40-implementa%C3%A7%C3%A3o-da-lep">4.0 - IMPLEMENTAÇÃO DA LEP</a></blockquote>
+
+<blockquote class="trello-card"><a href="https://trello.com/c/4xwvYBhO/22-50-visualiza%C3%A7%C3%A3o-da-lep">5.0 - VISUALIZAÇÃO DA LEP</a></blockquote>
+
+
+**Para mais informações sobre o burndown clique no link abaixo:**
+
+<blockquote class="trello-card"><a href="https://trello.com/c/GQ2J2gBI/51-burndown">BURNDOWN</a></blockquote>
+
+
+**Para mais informações sobre os documentos da matéria de FGTI clique no link abaixo:**
+
+<blockquote> <a href="https://github.com/mateuscamargo/14bis/tree/main/Documentos%20de%20FGTI"> DOCUMENTOS DE FGTI </a> </blockquote>
 
 
 **Tempo da Sprint:** 26/04/2021 á 16/05/2021
@@ -86,6 +106,16 @@
 
 # Sprint 04 :gear:
 
+**Para mais informações sobre os Story Cards clique no link abaixo:**
+
+
+**Story Cards**
+
+<blockquote class="trello-card"><a href="https://trello.com/c/opykUT5I/23-60-gerar-doc-delta">6.0 - GERAR DOC DELTA</a></blockquote>
+
+<blockquote class="trello-card"><a href="https://trello.com/c/epmcB9af/24-70-gerar-doc-full">7.0 - GERAR DOC FULL</a></blockquote>
+
+<blockquote class="trello-card"><a href="https://trello.com/c/k2Te90JU/25-80-verifica%C3%A7%C3%A3o-de-duplicidade">8.0 - VERIFICAÇÃO DE DUPLICIDADE</a></blockquote>
 
 
 
