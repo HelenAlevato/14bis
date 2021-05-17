@@ -1,4 +1,4 @@
-import { OverflowMenuVertical24 } from '@carbon/icons-react';
+import { ChevronRight20 } from '@carbon/icons-react';
 import {
   Button,
   DataTable,
@@ -23,9 +23,7 @@ import { OverflowMenu } from 'carbon-components-react/lib/components/OverflowMen
 import { Tooltip } from 'carbon-components-react/lib/components/Tooltip/Tooltip';
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-import { useHistory } from 'react-router-dom';
-
-var desenharCadastro = false;
+import { Link, useHistory } from 'react-router-dom';
 
 const rows = [
   {
@@ -65,11 +63,15 @@ const headers = [
     key: 'CreationDate',
     header: 'Data de Criação',
   },
+  {
+    key: 'visualizeAction',
+    header: '',
+  },
 ];
 
 const HomePage = () => {
   // status do modal de manual, pode ser: "create" ou "edit"
-  const [manualModalConfig, setManualModalConfig] = useState({open: false, status: "create"});
+  const [manualModalConfig, setManualModalConfig] = useState({ open: false, status: "create" });
   const [file, setFile] = useState();
   const history = useHistory();
 
@@ -102,8 +104,8 @@ const HomePage = () => {
         : ReactDOM.createPortal(
           <Modal
             open={manualModalConfig.open}
-            onRequestClose={() => setManualModalConfig({open: false})}
-            onRequestSubmit={() => manualModalConfig.status === "create" ? redirectToCodelist() : setManualModalConfig({open: false})}
+            onRequestClose={() => setManualModalConfig({ open: false })}
+            onRequestSubmit={() => manualModalConfig.status === "create" ? redirectToCodelist() : setManualModalConfig({ open: false })}
             modalHeading={manualModalConfig.status === "create" ? "Criar um novo manual" : "Editar Manual"}
             modalLabel="Recursos do manual"
             primaryButtonText="Save"
@@ -111,7 +113,7 @@ const HomePage = () => {
             {manualModalConfig.status === "create" ? (
               <>
                 <p style={{ marginBottom: '1rem' }}>
-                Preencha os campos abaixo conforme o manual a ser cadastrado.
+                  Preencha os campos abaixo conforme o manual a ser cadastrado.
                 </p>
                 <TextInput
                   data-modal-primary-focus
@@ -122,7 +124,7 @@ const HomePage = () => {
                 />
               </>
             ) : <></>}
-            
+
             <FileUploader
               labelTitle="Arquivo Codelist"
               labelDescription="Apenas arquivos Excel"
@@ -144,57 +146,64 @@ const HomePage = () => {
           getRowProps,
           getTableProps,
           onInputChange,
-          TableToolbarAction,
         }) => (
           <TableContainer title="Manuais" description="Gerencie seus manuais">
             <TableToolbar>
               <TableToolbarContent>
                 {/* pass in `onInputChange` change here to make filtering work */}
                 <TableToolbarSearch onChange={onInputChange} />
-                <TableToolbarMenu>
-                  <TableToolbarAction onClick={() => { }}>
-                    Action 1
-                  </TableToolbarAction>
-                  <TableToolbarAction onClick={() => { }}>
-                    Action 2
-                  </TableToolbarAction>
-                  <TableToolbarAction onClick={() => { }}>
-                    Action 3
-                  </TableToolbarAction>
-                </TableToolbarMenu>
-                <Button onClick={() => setManualModalConfig({open: true, status: "create"})}>Cadastrar Manual</Button>
+                <Button onClick={() => setManualModalConfig({ open: true, status: "create" })}>Cadastrar Manual</Button>
               </TableToolbarContent>
             </TableToolbar>
-            <Table {...getTableProps()}>
-              <TableHead>
-                <TableRow>
-                  {headers.map(header => (
-                    <TableHeader
-                      key={header.key}
-                      {...getHeaderProps({ header })}>
-                      {header.header}
-                    </TableHeader>
-                  ))}
-                </TableRow>
-              </TableHead>
-              <TableBody>
-                {rows.map(row => (
-                  <TableRow key={row.id} {...getRowProps({ row })}>
-                    <TableCell key={"actions"}>
-                      <OverflowMenu selectorPrimaryFocus={'.optionTwo'}>
-                        <OverflowMenuItem 
-                          onClick={() => setManualModalConfig({open: true, status: "edit"})}
-                          itemText="Editar Manual"
-                        />
-                      </OverflowMenu>
-                    </TableCell>
-                    {row.cells.map(cell => cell.value !== undefined ? (
-                      <TableCell key={cell.id}>{cell.value}</TableCell>
-                    ) : <></>)}
+            {rows.length === 0 ? (
+              <div style={{ backgroundColor: "#f4f4f4", display: "flex", alignItem: "center", alignContent: "center", padding: "2rem", borderTop: "3px solid #DDD" }}>
+                <h4 style={{ fontWeight: 700, margin: "auto", fontFamily: "IBM Plex Sans" }}>Não há manuais cadastrados no sistema</h4>
+              </div>
+            ) : (
+              <Table {...getTableProps()}>
+                <TableHead>
+                  <TableRow>
+                    {headers.map(header => (
+                      <TableHeader
+                        key={header.key}
+                        {...getHeaderProps({ header })}>
+                        {header.header}
+                      </TableHeader>
+                    ))}
                   </TableRow>
-                ))}
-              </TableBody>
-            </Table>
+                </TableHead>
+                <TableBody>
+                  {rows.length === 0 ? (
+                    <TableRow>
+                      <TableCell>
+                        <h4>Não há manuais cadastrados no sistema</h4>
+                      </TableCell>
+                    </TableRow>
+                  ) : <></>}
+                  {rows.map(row => (
+                    <TableRow key={row.id} {...getRowProps({ row })}>
+                      <TableCell key={"actions"}>
+                        <OverflowMenu selectorPrimaryFocus={'.optionTwo'}>
+                          <OverflowMenuItem
+                            onClick={() => setManualModalConfig({ open: true, status: "edit" })}
+                            itemText="Editar Manual"
+                          />
+                        </OverflowMenu>
+                      </TableCell>
+                      {row.cells.map(cell => cell.value !== undefined ? (
+                        <TableCell key={cell.id}>{cell.value}</TableCell>
+                      ) : <></>)}
+                      <TableCell key={"visualizeAction"}>
+                        <Link to="/CodeList">
+                          <ChevronRight20 style={{cursor: "pointer"}}/>
+                        </Link>
+                      </TableCell>
+                    </TableRow>
+                  ))}
+                </TableBody>
+              </Table>
+            )}
+
           </TableContainer>
         )}
       </DataTable>

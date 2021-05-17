@@ -34,7 +34,7 @@ const MainHeader = () => (
           Embraer
         </HeaderName>
         <HeaderNavigation aria-label="14Bis">
-          <HeaderMenuItem href="/CodeList">Codelist</HeaderMenuItem>
+          <HeaderMenuItem href="/#/CodeList">Codelist</HeaderMenuItem>
         </HeaderNavigation>
         <SideNav
           aria-label="Side navigation"

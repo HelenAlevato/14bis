@@ -13,6 +13,7 @@ import {
   TableToolbarContent
 } from 'carbon-components-react';
 import { Book24, Document24, DocumentView24, TableSplit24 } from '@carbon/icons-react';
+import { Link } from 'react-router-dom';
 
 const headers = [
   {
@@ -68,7 +69,7 @@ const headersTableLEP = [
   },
 ];
 
-const doctTypes = ["Mars","Alpha Centauro","Saturno","Jupiter","Moon","Pluto"]
+const doctTypes = ["Mars", "Alpha Centauro", "Saturno", "Jupiter", "Moon", "Pluto"]
 
 const CodeListPage = () => {
   var [rows, setRows] = useState([]);
@@ -83,114 +84,113 @@ const CodeListPage = () => {
 
   return (
     <>
-      <TableContainer title="Nome do manual" description="Tabela do Codelist">
-        <Tabs type="container">
-          <Tab id="Tab1" label="Codelist">
-            <DataTable rows={rows} headers={headers}>
-              {({
-                rows,
-                headers,
-                getHeaderProps,
-                getRowProps,
-                getTableProps,
-              }) => (
+      <div style={{ marginBottom: "1rem" }}>
+        <Link to="/">
+          <Button>Fechar</Button>
+        </Link>
+      </div>
 
-                <Table>
-                  <TableToolbar>
-                    <TableToolbarContent>
-                      <Button onClick={() => { }} renderIcon={TableSplit24}>Codelist </Button>
-                    </TableToolbarContent>
-                  </TableToolbar>
-                  <Table {...getTableProps()}>
-                    <TableHead>
-                      <TableRow>
-                        {headers.map(header => (
-                          <TableHeader
-                            key={header.key}
-                            {...getHeaderProps({ header })}>
-                            {header.header}
-                          </TableHeader>
-                        ))}
-                      </TableRow>
-                    </TableHead>
-                    <TableBody>
-                      {rows.map(row => (
-                        <TableRow key={row.id} {...getRowProps({ row })}>
-                          {row.cells.map(cell => (
-                            <TableCell key={cell.id}>{cell.value}</TableCell>
+      <div style={{ backgroundColor: "#f4f4f4" }}>
+        <TableContainer title="Nome do manual" description="Tabela do Codelist">
+          <Tabs type="container">
+            <Tab id="Tab1" label="Codelist">
+              <DataTable rows={rows} headers={headers}>
+                {({
+                  rows,
+                  headers,
+                  getHeaderProps,
+                  getRowProps,
+                  getTableProps,
+                }) => (
+
+                  <Table>
+                    <TableToolbar>
+                      <TableToolbarContent>
+                        <Button onClick={() => { }}>Atualizar Codelist</Button>
+                      </TableToolbarContent>
+                    </TableToolbar>
+                    <Table {...getTableProps()}>
+                      <TableHead>
+                        <TableRow>
+                          {headers.map(header => (
+                            <TableHeader
+                              key={header.key}
+                              {...getHeaderProps({ header })}>
+                              {header.header}
+                            </TableHeader>
                           ))}
                         </TableRow>
-                      ))}
-                    </TableBody>
-                  </Table>
-                </Table>
-              )}
-            </DataTable>
-
-          </Tab>
-
-          <Tab id="Tab2" label="LEP">
-            <DataTable rows={rows} headers={headersTableLEP}>
-              {({
-                rows,
-                headers,
-                getHeaderProps,
-                getRowProps,
-                getTableProps,
-              }) => (
-
-                <Table>
-                  <TableToolbar>
-                    <TableToolbarContent>
-                      <Button onClick={() => { }} renderIcon={TableSplit24}>Codelist </Button>
-                    </TableToolbarContent>
-                  </TableToolbar>
-                  <Table {...getTableProps()}>
-                    <TableHead>
-                      <TableRow>
-                        {headers.map(header => (
-                          <TableHeader
-                            key={header.key}
-                            {...getHeaderProps({ header })}>
-                            {header.header}
-                          </TableHeader>
+                      </TableHead>
+                      <TableBody>
+                        {rows.map(row => (
+                          <TableRow key={row.id} {...getRowProps({ row })}>
+                            {row.cells.map(cell => (
+                              <TableCell key={cell.id}>{cell.value}</TableCell>
+                            ))}
+                          </TableRow>
                         ))}
-                      </TableRow>
-                    </TableHead>
-                    <TableBody>
-                      {rows.map(row => (
-                        <TableRow key={row.id} {...getRowProps({ row })}>
-                          <TableCell key={"full"}>
-                            <Book24 />
-                          </TableCell>
-                          <TableCell key={"delta"}>
-                            <Document24 />  
-                          </TableCell>
-                          <TableCell key={"lep"}>
-                            <DocumentView24 />
-                          </TableCell>
-                          <TableCell key={"remarks"}>
-                            {"-50"}
-                          </TableCell>
-                          <TableCell key={"name"}>
-                            {doctTypes[Math.floor((Math.random() * 6))]}
-                          </TableCell>
-                          {/* {row.cells.map(cell => (
+                      </TableBody>
+                    </Table>
+                  </Table>
+                )}
+              </DataTable>
+
+            </Tab>
+
+            <Tab id="Tab2" label="LEP">
+              <DataTable rows={rows} headers={headersTableLEP}>
+                {({
+                  rows,
+                  headers,
+                  getHeaderProps,
+                  getRowProps,
+                  getTableProps,
+                }) => (
+
+                  <Table>
+                    <Table {...getTableProps()}>
+                      <TableHead>
+                        <TableRow>
+                          {headers.map(header => (
+                            <TableHeader
+                              key={header.key}
+                              {...getHeaderProps({ header })}>
+                              {header.header}
+                            </TableHeader>
+                          ))}
+                        </TableRow>
+                      </TableHead>
+                      <TableBody>
+                        {rows.map(row => (
+                          <TableRow key={row.id} {...getRowProps({ row })}>
+                            <TableCell key={"full"}>
+                              <Book24 />
+                            </TableCell>
+                            <TableCell key={"delta"}>
+                              <Document24 />
+                            </TableCell>
+                            <TableCell key={"lep"}>
+                              <DocumentView24 />
+                            </TableCell>
+                            <TableCell key={"remarks"}>
+                              {"-50"}
+                            </TableCell>
+                            <TableCell key={"name"}>
+                              {doctTypes[Math.floor((Math.random() * 6))]}
+                            </TableCell>
+                            {/* {row.cells.map(cell => (
                             <TableCell key={cell.id}>{cell.value + " | segunda aba"}</TableCell>
                           ))} */}
-                        </TableRow>
-                      ))}
-                    </TableBody>
+                          </TableRow>
+                        ))}
+                      </TableBody>
+                    </Table>
                   </Table>
-                </Table>
-              )}
-            </DataTable>
-          </Tab>
-        </Tabs>
-      </TableContainer>
-      
-      <div>
-        <Button>Fechar</Button>
+                )}
+              </DataTable>
+            </Tab>
+          </Tabs>
+        </TableContainer>
       </div>
     </>
   );

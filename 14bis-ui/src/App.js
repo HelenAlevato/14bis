@@ -12,11 +12,12 @@ class App extends Component {
       <>
         <MainHeader></MainHeader>
         <Content>
-        <Switch>
-            <Route exact path="/" component={HomePage} />
-            <Route path="/CodeList" component={CodeListPage} />
-
-        </Switch>
+          <div style={{marginLeft: "20%", marginRight: "20%"}}>
+            <Switch>
+                <Route exact path="/" component={HomePage} />
+                <Route path="/CodeList" component={CodeListPage} />
+            </Switch>
+          </div>
         </Content>
       </>
     );
