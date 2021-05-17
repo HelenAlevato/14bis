@@ -12,39 +12,15 @@ import {
   TableRow,
   TableToolbar,
   TableToolbarContent,
-  TableToolbarMenu,
   TableToolbarSearch,
   TextInput,
   FileUploader,
-  TooltipIcon,
   OverflowMenuItem
 } from 'carbon-components-react';
 import { OverflowMenu } from 'carbon-components-react/lib/components/OverflowMenu/OverflowMenu';
-import { Tooltip } from 'carbon-components-react/lib/components/Tooltip/Tooltip';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom';
 import { Link, useHistory } from 'react-router-dom';
-
-const rows = [
-  {
-    id: 'a',
-    manuais: 'ABC-1234',
-    URL: 'c://Embraer/...',
-    CreationDate: '',
-  },
-  {
-    id: 'b',
-    manuais: 'DEF-5678',
-    URL: 'c://Embraer/...',
-    CreationDate: '',
-  },
-  {
-    id: 'c',
-    manuais: 'GHI-9101',
-    URL: 'c://Embraer/...',
-    CreationDate: '',
-  },
-];
 
 const headers = [
   {
@@ -52,8 +28,8 @@ const headers = [
     header: '',
   },
   {
-    key: 'manuais',
-    header: 'Manuais',
+    key: 'nomeManual',
+    header: 'Nome do Manual',
   },
   {
     key: 'URL',
@@ -75,6 +51,18 @@ const HomePage = () => {
   const [file, setFile] = useState();
   const [nomeManual, setNomeManual] = useState('manual sem nome');
   const history = useHistory();
+
+  var [manuais, setManuais] = useState([]);
+  var [isLoaded, setLoaded] = useState(false);
+
+  useEffect(async () => {
+    if (!isLoaded) {
+      console.log('buscando manuais')
+      setManuais(await fetch("http://localhost:8585/api/manual").then(response => response.json()))
+      setLoaded(true);
+      console.log(manuais)
+    }
+  })
 
   const redirectToCodelist = async () => {
     if (file) {
@@ -141,7 +129,7 @@ const HomePage = () => {
           </Modal>,
           document.body
         )}
-      <DataTable rows={rows} headers={headers}>
+      <DataTable rows={manuais} headers={headers}>
         {({
           rows,
           headers,
@@ -176,15 +164,8 @@ const HomePage = () => {
                   </TableRow>
                 </TableHead>
                 <TableBody>
-                  {rows.length === 0 ? (
-                    <TableRow>
-                      <TableCell>
-                        <h4>Não há manuais cadastrados no sistema</h4>
-                      </TableCell>
-                    </TableRow>
-                  ) : <></>}
-                  {rows.map(row => (
-                    <TableRow key={row.id} {...getRowProps({ row })}>
+                  {manuais.map(manual => (
+                    <TableRow key={manual.nome}>
                       <TableCell key={"actions"}>
                         <OverflowMenu selectorPrimaryFocus={'.optionTwo'}>
                           <OverflowMenuItem
@@ -193,9 +174,9 @@ const HomePage = () => {
                           />
                         </OverflowMenu>
                       </TableCell>
-                      {row.cells.map(cell => cell.value !== undefined ? (
-                        <TableCell key={cell.id}>{cell.value}</TableCell>
-                      ) : <></>)}
+                      <TableCell key="nomeManual">{manual.nome}</TableCell>
+                      <TableCell key="URL">C://Embraer/...</TableCell>
+                      <TableCell key="CreationDate">{manual.date.split('T')[0]}</TableCell>
                       <TableCell key={"visualizeAction"}>
                         <Link to="/CodeList">
                           <ChevronRight20 style={{cursor: "pointer"}}/>
