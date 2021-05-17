@@ -1,6 +1,7 @@
 package com.fingerone.BisServer.controller;
 
 
+import java.util.Date;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,31 +11,40 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
+import com.fingerone.BisServer.entity.Manual;
 import com.fingerone.BisServer.helper.ExcelHelper;
 import com.fingerone.BisServer.message.ResponseMessage;
 import com.fingerone.BisServer.model.CodeList;
 import com.fingerone.BisServer.service.ExcelService;
 
+import io.swagger.annotations.Api;
+
 
 @CrossOrigin("http://localhost:3000")
 @Controller
 @RequestMapping("/api/codelist")
+@Api(value = "Codelist")
 public class CodeListController {
 
 	@Autowired
 	ExcelService fileService;
 
 	@PostMapping("/upload")
-	public ResponseEntity<ResponseMessage> uploadFile(@RequestParam("file") MultipartFile file) {
+	public ResponseEntity<ResponseMessage> uploadFile(@RequestParam("file") MultipartFile file, @RequestParam("nomeManual") String nomeManual) {
 		String message = "";
-
+		
 		if (ExcelHelper.hasExcelFormat(file)) {
+			Manual manual = new Manual();
+			manual.setNome(nomeManual);
+			manual.setDate(new Date());
+
 			try {
-				fileService.save(file);
+				fileService.save(file, manual);
 
 				message = "Uploaded the file successfully: " + file.getOriginalFilename();
 				return ResponseEntity.status(HttpStatus.OK).body(new ResponseMessage(message));

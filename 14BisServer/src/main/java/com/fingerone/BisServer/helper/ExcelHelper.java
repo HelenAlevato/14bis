@@ -14,6 +14,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.springframework.web.multipart.MultipartFile;
 
+import com.fingerone.BisServer.entity.Manual;
 import com.fingerone.BisServer.model.CodeList;
 
 public class ExcelHelper {
@@ -31,7 +32,7 @@ public class ExcelHelper {
 		return true;
 	}
 
-	public static List<CodeList> excelToCodeLists(InputStream is) {
+	public static List<CodeList> excelToCodeLists(InputStream is, Manual manual) {
 		try {
 			Workbook workbook = new XSSFWorkbook(is);
 
@@ -53,6 +54,7 @@ public class ExcelHelper {
 				Iterator<Cell> cellsInRow = currentRow.iterator();
 
 				CodeList codelist = new CodeList();
+				codelist.setManual(manual);
 
 				DataFormatter formatter = new DataFormatter();
 				int cellIdx = 0;
