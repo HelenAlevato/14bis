@@ -73,12 +73,14 @@ const HomePage = () => {
   // status do modal de manual, pode ser: "create" ou "edit"
   const [manualModalConfig, setManualModalConfig] = useState({ open: false, status: "create" });
   const [file, setFile] = useState();
+  const [nomeManual, setNomeManual] = useState('manual sem nome');
   const history = useHistory();
 
   const redirectToCodelist = async () => {
     if (file) {
       const formData = new FormData()
       formData.append('file', file)
+      formData.append('nomeManual', nomeManual)
 
       const opcoesRequest = {
         method: 'POST',
@@ -121,6 +123,7 @@ const HomePage = () => {
                   labelTitle="Nome do manual"
                   placeholder="ex: ABC-1234"
                   style={{ marginBottom: '1rem' }}
+                  onChange={(data) => setNomeManual(data.target.value)}
                 />
               </>
             ) : <></>}
