@@ -29,7 +29,7 @@ public class CodeList {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 	
-	@ManyToOne(cascade = CascadeType.ALL)
+	@ManyToOne(cascade=CascadeType.PERSIST)
     @JoinColumn(name = "cod_manual", referencedColumnName = "cod_manual")
     private Manual manual;
 	

@@ -1,8 +1,8 @@
 package com.fingerone.BisServer.service;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
-
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -32,6 +32,10 @@ public class ExcelService {
 
 	  public List<CodeList> getAllCodelists() {
 	    return repository.findAll();
+	  }
+	  
+	  public List<CodeList> getAllCodelistsByManualName(String nomeManual) {
+		  return new ArrayList<CodeList>(repository.findByManual_nome(nomeManual));
 	  }
 
 }
