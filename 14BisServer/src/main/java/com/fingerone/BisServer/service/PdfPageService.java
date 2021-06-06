@@ -2,7 +2,9 @@ package com.fingerone.BisServer.service;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.regex.Pattern;
 
@@ -46,6 +48,30 @@ public class PdfPageService {
     @Value("${pdf.pages.dir}")
     private String rootPdfPath;
 
+    public void createNewPdf() throws IOException {
+    	PDDocument novoPDF = new PDDocument();
+    	String nomePDF = "newPDFDocument";
+    	String caminhoCompleto = this.rootPdfPath + "/" + nomePDF + ".pdf";
+    	for (int i=0; i<10; i++) {
+            //Creating a blank page 
+            PDPage blankPage = new PDPage();
+
+            //Adding the blank page to the document
+            novoPDF.addPage( blankPage );
+         } 
+    	novoPDF.save(caminhoCompleto);
+    	novoPDF.close();
+    }
+    
+    public byte[] getExistentPDF() throws IOException {
+    	String fileName = "ABC-1234-50-REV6-FULL.pdf";
+    	String filePath = rootPdfPath + "/" + fileName;
+    	File file = new File(filePath);
+        byte[] contents = Files.readAllBytes(file.toPath());
+        
+        return contents;
+    }
+    
     @Transactional
     public ProcessPdfResponse extractPagesOfPdfs() throws IOException {
         List<PdfPage> pdfPageList = new ArrayList<>();
