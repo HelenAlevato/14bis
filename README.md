@@ -116,8 +116,16 @@
 <blockquote class="trello-card"><a href="https://trello.com/c/k2Te90JU/25-80-verifica%C3%A7%C3%A3o-de-duplicidade">8.0 - VERIFICAÇÃO DE DUPLICIDADE</a></blockquote>
 
 
+**Para mais informações sobre os documentos da matéria de FGTI clique no link abaixo:**
 
-**Tempo da Sprint:** 17/05/2021 á 05/06/2021
+<blockquote> <a href="https://github.com/mateuscamargo/14bis/tree/main/Documentos%20de%20FGTI"> DOCUMENTOS DE FGTI </a> </blockquote>
+
+**Para mais informações sobre os documentos da matéria de FGTI clique no link abaixo:**
+
+<blockquote class="trello-card"><a href="https://trello.com/c/lGFFdD6S/68-burndown">BURNDOWN</a></blockquote>
+
+
+**Tempo da Sprint:** 17/05/2021 á 06/06/2021
 
 ---
 
