@@ -41,12 +41,33 @@ public class ExcelHelper {
 
 			List<CodeList> codelists = new ArrayList<CodeList>();
 
+			List<String> tagsCatalog = new ArrayList<String>();
+
 			int rowNumber = 0;
 			while (rows.hasNext()) {
 				Row currentRow = rows.next();
 
-				// skip header
+				// Processamento do header
 				if (rowNumber == 0) {
+					// coluna 6 por diante = tags
+					Iterator<Cell> cellsInRow = currentRow.iterator();
+					int cellIdx = 0;
+					while (cellsInRow.hasNext()) {
+						Cell currentCell = cellsInRow.next();
+						String tag = "";
+						if (cellIdx > 5) {
+							tag = currentCell.getStringCellValue();
+							
+							// se tiver code com traço e espaço no texto da tag, ele remove e pega apenas o texto
+							if (tag.contains("-")) {
+								tag = tag.split("-")[1].trim();
+							}
+							tagsCatalog.add(tag);
+						}
+						
+						cellIdx++;
+					}
+
 					rowNumber++;
 					continue;
 				}
@@ -58,45 +79,32 @@ public class ExcelHelper {
 
 				DataFormatter formatter = new DataFormatter();
 				int cellIdx = 0;
+				List<String> tagsToAdd = new ArrayList<String>();
 				while (cellsInRow.hasNext()) {
 					Cell currentCell = cellsInRow.next();
-
-					switch (cellIdx) {
-					case 0:
+					
+					if (cellIdx == 0) {
 						codelist.setSecao(currentCell.getStringCellValue());
-						break;
-
-					case 1:
+					} else if (cellIdx == 1) {
 						codelist.setSubSecao(currentCell.getStringCellValue());
-						break;
-
-					case 2:
+					} else if (cellIdx == 2) {
 						codelist.setBloco(currentCell.getStringCellValue());
-						break;
-
-					case 3:
+					} else if (cellIdx == 3) {
 						codelist.setNomeBloco(currentCell.getStringCellValue());
-						break;
-
-					case 4:
+					} else if (cellIdx == 4) {
 						codelist.setCodigo(currentCell.getStringCellValue());
-						break;
-
-					case 5:
+					} else if (cellIdx == 5) {
 						codelist.setAplicabilidade(formatter.formatCellValue(currentCell));
-						break;
-
-					case 6:
-						codelist.setTag(currentCell.getStringCellValue());
-						break;
-
-					default:
-						break;
+					} else if (cellIdx >= 6) {
+						int tagCount = cellIdx - 6;
+						
+						if (currentCell.getNumericCellValue() == 1) {
+							tagsToAdd.add(tagsCatalog.get(tagCount));
+						}
 					}
-
 					cellIdx++;
 				}
-
+				codelist.setTag(String.join(",", tagsToAdd));
 				codelists.add(codelist);
 			}
 
