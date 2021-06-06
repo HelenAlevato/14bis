@@ -15,7 +15,7 @@ import {
   TableToolbarSearch,
   TextInput,
   FileUploader,
-  OverflowMenuItem
+  OverflowMenuItem,
 } from 'carbon-components-react';
 import { OverflowMenu } from 'carbon-components-react/lib/components/OverflowMenu/OverflowMenu';
 import React, { useEffect, useState } from 'react';
@@ -49,18 +49,18 @@ const HomePage = () => {
   // status do modal de manual, pode ser: "create" ou "edit"
   const [manualModalConfig, setManualModalConfig] = useState({ open: false, status: "create" });
   const [file, setFile] = useState();
-  const [nomeManual, setNomeManual] = useState('manual sem nome');
+  const [nomeManual, setNomeManual] = useState('');
   const history = useHistory();
 
-  var [manuais, setManuais] = useState([]);
-  var [isLoaded, setLoaded] = useState(false);
+  let [fetchedManuais, setFetchedManuais] = useState([]);
+  let [manuais, setManuais] = useState([]);
+  let [isLoaded, setLoaded] = useState(false);
 
   useEffect(async () => {
     if (!isLoaded) {
-      console.log('buscando manuais')
-      setManuais(await fetch("http://localhost:8585/api/manual").then(response => response.json()))
+      setFetchedManuais(await fetch("http://localhost:8585/api/manual").then(response => response.json()))
+      setManuais(fetchedManuais)
       setLoaded(true);
-      console.log(manuais)
     }
   })
 
@@ -68,7 +68,7 @@ const HomePage = () => {
     if (file) {
       const formData = new FormData()
       formData.append('file', file)
-      formData.append('nomeManual', nomeManual)
+      formData.append('nomeManual', nomeManual === "" ? "manual sem nome" : nomeManual)
 
       const opcoesRequest = {
         method: 'POST',
@@ -78,13 +78,42 @@ const HomePage = () => {
       await fetch('http://localhost:8585/api/codelist/upload', opcoesRequest)
         .catch(err => console.log(err))
         .then(response => response.json())
-        .then(data => history.push("/CodeList")
+        .then(data => history.push(`/CodeList/${nomeManual}`)
         );
     }
   }
 
   const atribuirArquivo = (data) => {
     setFile(data.target.files[0]);
+  }
+
+  const filtrarManuais = (e) => {
+    let textoDeFiltro = e.target.value
+    manuais = fetchedManuais
+    setManuais(manuais.filter(manual => manual.nome.includes(textoDeFiltro)))
+  }
+
+  const handleModalClose = () => {
+    setNomeManual("");
+    setManualModalConfig({ open: false });
+  }
+
+  const handleModalSubmit = async () => {
+    if (manualModalConfig.status === "create") {
+      redirectToCodelist();
+    } else {
+      let formData = new FormData()
+      formData.append('manualData', `${manualModalConfig.currentManual.codManual},${nomeManual}`)
+      
+      const opcoesRequest = {
+        method: 'POST',
+        body: formData,
+      };
+
+      await fetch('http://localhost:8585/api/manual/update', opcoesRequest);
+      handleModalClose();
+      setLoaded(false);
+    }
   }
 
   return (
@@ -94,38 +123,38 @@ const HomePage = () => {
         : ReactDOM.createPortal(
           <Modal
             open={manualModalConfig.open}
-            onRequestClose={() => setManualModalConfig({ open: false })}
-            onRequestSubmit={() => manualModalConfig.status === "create" ? redirectToCodelist() : setManualModalConfig({ open: false })}
-            modalHeading={manualModalConfig.status === "create" ? "Criar um novo manual" : "Editar Manual"}
+            onRequestClose={handleModalClose}
+            onRequestSubmit={handleModalSubmit}
+            modalHeading={manualModalConfig.status === "create" ? "Criar um novo manual" : "Editar Nome do Manual"}
             modalLabel="Recursos do manual"
             primaryButtonText="Save"
             secondaryButtonText="Cancel">
+            <p style={{ marginBottom: '1rem' }}>
+              Preencha os campos abaixo conforme o manual a ser cadastrado.
+            </p>
+            <TextInput
+              data-modal-primary-focus
+              id="text-input-1"
+              labelTitle="Nome do manual"
+              placeholder="ex: ABC-1234"
+              style={{ marginBottom: '1rem' }}
+              value={nomeManual ? nomeManual : ""}
+              onChange={(data) => setNomeManual(data.target.value)}
+            />
             {manualModalConfig.status === "create" ? (
-              <>
-                <p style={{ marginBottom: '1rem' }}>
-                  Preencha os campos abaixo conforme o manual a ser cadastrado.
-                </p>
-                <TextInput
-                  data-modal-primary-focus
-                  id="text-input-1"
-                  labelTitle="Nome do manual"
-                  placeholder="ex: ABC-1234"
-                  style={{ marginBottom: '1rem' }}
-                  onChange={(data) => setNomeManual(data.target.value)}
-                />
-              </>
+              <FileUploader
+                labelTitle="Arquivo Codelist"
+                labelDescription="Apenas arquivos Excel"
+                buttonLabel="Add Codelist"
+                filenameStatus="edit"
+                accept={[".xlsx", ".xltx"]}
+                onChange={(data) => atribuirArquivo(data)}
+                name="file"
+                multiple={true}
+              />
             ) : <></>}
 
-            <FileUploader
-              labelTitle="Arquivo Codelist"
-              labelDescription="Apenas arquivos Excel"
-              buttonLabel="Add Codelist"
-              filenameStatus="edit"
-              accept={[".xlsx", ".xltx"]}
-              onChange={(data) => atribuirArquivo(data)}
-              name="file"
-              multiple={true}
-            />
+
           </Modal>,
           document.body
         )}
@@ -142,7 +171,7 @@ const HomePage = () => {
             <TableToolbar>
               <TableToolbarContent>
                 {/* pass in `onInputChange` change here to make filtering work */}
-                <TableToolbarSearch onChange={onInputChange} />
+                <TableToolbarSearch onChange={filtrarManuais} />
                 <Button onClick={() => setManualModalConfig({ open: true, status: "create" })}>Cadastrar Manual</Button>
               </TableToolbarContent>
             </TableToolbar>
@@ -169,7 +198,7 @@ const HomePage = () => {
                       <TableCell key={"actions"}>
                         <OverflowMenu selectorPrimaryFocus={'.optionTwo'}>
                           <OverflowMenuItem
-                            onClick={() => setManualModalConfig({ open: true, status: "edit" })}
+                            onClick={() => setManualModalConfig({ open: true, status: "edit", currentManual: manual })}
                             itemText="Editar Manual"
                           />
                         </OverflowMenu>
@@ -178,8 +207,8 @@ const HomePage = () => {
                       <TableCell key="URL">C://Embraer/...</TableCell>
                       <TableCell key="CreationDate">{manual.date.split('T')[0]}</TableCell>
                       <TableCell key={"visualizeAction"}>
-                        <Link to="/CodeList">
-                          <ChevronRight20 style={{cursor: "pointer"}}/>
+                        <Link to={`/CodeList/${manual.nome}`}>
+                          <ChevronRight20 style={{ cursor: "pointer" }} />
                         </Link>
                       </TableCell>
                     </TableRow>

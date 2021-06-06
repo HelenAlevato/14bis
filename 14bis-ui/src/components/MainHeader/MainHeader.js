@@ -15,8 +15,7 @@ import {
 } from 'carbon-components-react';
 
 import {
-  AppSwitcher20,
-  Notification20,
+  Logout20,
   UserAvatar20,
 } from '@carbon/icons-react';
 
@@ -33,9 +32,6 @@ const MainHeader = () => (
         <HeaderName href="/" prefix="14Bis">
           Embraer
         </HeaderName>
-        <HeaderNavigation aria-label="14Bis">
-          <HeaderMenuItem href="/#/CodeList">Codelist</HeaderMenuItem>
-        </HeaderNavigation>
         <SideNav
           aria-label="Side navigation"
           expanded={isSideNavExpanded}
@@ -47,14 +43,11 @@ const MainHeader = () => (
           </SideNavItems>
         </SideNav>
         <HeaderGlobalBar>
-          <HeaderGlobalAction aria-label="Notifications">
-            <Notification20 />
-          </HeaderGlobalAction>
           <HeaderGlobalAction aria-label="User Avatar">
             <UserAvatar20 />
           </HeaderGlobalAction>
           <HeaderGlobalAction aria-label="App Switcher">
-            <AppSwitcher20 />
+            <Logout20 />
           </HeaderGlobalAction>
         </HeaderGlobalBar>
       </Header>
