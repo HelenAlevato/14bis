@@ -204,7 +204,7 @@ const HomePage = () => {
                         </OverflowMenu>
                       </TableCell>
                       <TableCell key="nomeManual">{manual.nome}</TableCell>
-                      <TableCell key="URL">C://Embraer/...</TableCell>
+                      <TableCell key="URL">C://Embraer/pdf/{manual.nome}</TableCell>
                       <TableCell key="CreationDate">{manual.date.split('T')[0]}</TableCell>
                       <TableCell key={"visualizeAction"}>
                         <Link to={`/CodeList/${manual.nome}`}>
