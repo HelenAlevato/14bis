@@ -15,10 +15,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 
+import com.fingerone.BisServer.entity.CodeList;
 import com.fingerone.BisServer.entity.Manual;
 import com.fingerone.BisServer.helper.ExcelHelper;
 import com.fingerone.BisServer.message.ResponseMessage;
-import com.fingerone.BisServer.model.CodeList;
 import com.fingerone.BisServer.repository.CodeListRepository;
 import com.fingerone.BisServer.service.ExcelService;
 

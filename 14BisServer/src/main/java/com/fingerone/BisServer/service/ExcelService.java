@@ -10,7 +10,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.fingerone.BisServer.entity.Manual;
 import com.fingerone.BisServer.helper.ExcelHelper;
-import com.fingerone.BisServer.model.CodeList;
+import com.fingerone.BisServer.entity.CodeList;
 import com.fingerone.BisServer.repository.CodeListRepository;
 
 
