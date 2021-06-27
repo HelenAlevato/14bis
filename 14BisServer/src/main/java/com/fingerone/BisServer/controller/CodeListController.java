@@ -21,6 +21,7 @@ import com.fingerone.BisServer.helper.ExcelHelper;
 import com.fingerone.BisServer.message.ResponseMessage;
 import com.fingerone.BisServer.repository.CodeListRepository;
 import com.fingerone.BisServer.service.ExcelService;
+import com.fingerone.BisServer.service.PdfPageService;
 
 import io.swagger.annotations.Api;
 
@@ -32,21 +33,25 @@ public class CodeListController {
 
 	@Autowired
 	ExcelService fileService;
+	
+	@Autowired
+	PdfPageService pdfPageService;
 
 	@Autowired
 	CodeListRepository repository;
 
 	@PostMapping("/upload")
-	public ResponseEntity<ResponseMessage> uploadFile(@RequestParam("file") MultipartFile file,
-			@RequestParam("nomeManual") String nomeManual) {
+	public ResponseEntity<ResponseMessage> uploadCodelist(@RequestParam("file") MultipartFile file,
+			@RequestParam("manualName") String manualName) {
 		String message = "";
 
 		if (ExcelHelper.hasExcelFormat(file)) {
 			Manual manual = new Manual();
-			manual.setNome(nomeManual);
+			manual.setNome(manualName);
 			manual.setDate(new Date());
 
 			try {
+				pdfPageService.createNewManualDirectory(manualName);
 				fileService.save(file, manual);
 
 				message = "Uploaded the file successfully: " + file.getOriginalFilename();
@@ -107,5 +112,4 @@ public class CodeListController {
 			return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
 		}
 	}
-
 }
