@@ -64,7 +64,9 @@ const EditCodeListPage = () => {
 
     let nomeManual = useParams().nomeManual;
 
+    // função ativada quando a tela é redesenhada
     useEffect(async () => {
+        // se não tiver carregado os dados do manual, ele vai carregar 1 vez
         if (!isLoaded) {
             let response = await fetch(`http://localhost:8585/api/codelist/manual/${nomeManual}`).then(response => response.json());
             setFetchedCodelist(response);
@@ -73,12 +75,15 @@ const EditCodeListPage = () => {
         }
     })
 
+    // função nao finalizada, nao está pronta ainda
     const filtrarCodelist = (e) => {
         // let textoDeFiltro = e.target.value
         // codelist = fetchedCodelist
         // setCodelist(codelist.filter(bloco => bloco.nome.includes(textoDeFiltro)))
     }
 
+    // permite remover a linha do codelist escolhida, 
+    // atualizando a nossa lista de blocos e fazer a pagina redesenhar 
     const removerBloco = (e, index) => {
         setCodelist(codelist.filter((bloco, blocoIndex) => {
             if (blocoIndex === index) {
@@ -89,12 +94,14 @@ const EditCodeListPage = () => {
         setBlocosRemovidos(blocosRemovidos)
     }
 
+    // (não utilizada no momento) função para atualizar linha do bloco
     const onBlocoChange = (value, blocoIndex) => {
         this.setState({
             name: value
         });
     }
 
+    // admnistra o que acontece quando um texto do bloco é alterado
     const updateCodelist = (blocoAlterado, blocoIndex) => {
         let novoCodelist = codelist.map((bloco, index) => {
             if (blocoIndex === index) {
@@ -105,18 +112,21 @@ const EditCodeListPage = () => {
         setCodelist(novoCodelist);
     }
 
+    // admnistra o que acontece quando clica no "cancelar" da pagina
     const handleCancel = () => {
         history.push(`/CodeList/${nomeManual}`)
     }
 
+    // admnistra o que acontece quando clica no "salvar" da pagina
     const handleSave = async () => {
         await handleDeleteBlocks()
     }
 
+    // informa à API para remover os blocos que não existem mais na tela
     const handleDeleteBlocks = async () => {
         let idsToDelete = [];
         idsToDelete = blocosRemovidos.map(bloco => bloco.id).join(",");
-        
+
         console.log("ids a serem deletados", idsToDelete)
 
         const formData = new FormData();
@@ -128,7 +138,7 @@ const EditCodeListPage = () => {
             .catch(err => console.log(err))
             .then(response => response.json())
             .then(data => history.push(`/CodeList/${nomeManual}`)
-        );
+            );
     }
 
     return (
