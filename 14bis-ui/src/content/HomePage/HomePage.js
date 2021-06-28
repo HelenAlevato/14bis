@@ -29,7 +29,7 @@ const headers = [
   },
   {
     key: 'nomeManual',
-    header: 'Nome do Manual',
+    header: 'Manual name',
   },
   {
     key: 'URL',
@@ -37,7 +37,7 @@ const headers = [
   },
   {
     key: 'CreationDate',
-    header: 'Data de Criação',
+    header: 'Created Date',
   },
   {
     key: 'visualizeAction',
@@ -68,7 +68,7 @@ const HomePage = () => {
     if (file) {
       const formData = new FormData()
       formData.append('file', file)
-      formData.append('nomeManual', nomeManual === "" ? "manual sem nome" : nomeManual)
+      formData.append('manualName', nomeManual === "" ? "untitled manual" : nomeManual)
 
       const opcoesRequest = {
         method: 'POST',
@@ -125,8 +125,8 @@ const HomePage = () => {
             open={manualModalConfig.open}
             onRequestClose={handleModalClose}
             onRequestSubmit={handleModalSubmit}
-            modalHeading={manualModalConfig.status === "create" ? "Criar um novo manual" : "Editar Nome do Manual"}
-            modalLabel="Recursos do manual"
+            modalHeading={manualModalConfig.status === "create" ? "Create new Manual" : "Edit Manual name"}
+            modalLabel="Manual Resources"
             primaryButtonText="Save"
             secondaryButtonText="Cancel">
             <p style={{ marginBottom: '1rem' }}>
@@ -135,7 +135,7 @@ const HomePage = () => {
             <TextInput
               data-modal-primary-focus
               id="text-input-1"
-              labelTitle="Nome do manual"
+              labelText="Manual Name"
               placeholder="ex: ABC-1234"
               style={{ marginBottom: '1rem' }}
               value={nomeManual ? nomeManual : ""}
@@ -143,8 +143,8 @@ const HomePage = () => {
             />
             {manualModalConfig.status === "create" ? (
               <FileUploader
-                labelTitle="Arquivo Codelist"
-                labelDescription="Apenas arquivos Excel"
+                labelTitle="Codelist File"
+                labelDescription="Only excel files"
                 buttonLabel="Add Codelist"
                 filenameStatus="edit"
                 accept={[".xlsx", ".xltx"]}
@@ -167,10 +167,9 @@ const HomePage = () => {
           getTableProps,
           onInputChange,
         }) => (
-          <TableContainer title="Manuais" description="Gerencie seus manuais">
+          <TableContainer title="All Manuals" description="Manage Manuals">
             <TableToolbar>
               <TableToolbarContent>
-                {/* pass in `onInputChange` change here to make filtering work */}
                 <TableToolbarSearch onChange={filtrarManuais} />
                 <Button onClick={() => setManualModalConfig({ open: true, status: "create" })}>Cadastrar Manual</Button>
               </TableToolbarContent>
@@ -199,13 +198,13 @@ const HomePage = () => {
                         <OverflowMenu selectorPrimaryFocus={'.optionTwo'}>
                           <OverflowMenuItem
                             onClick={() => setManualModalConfig({ open: true, status: "edit", currentManual: manual })}
-                            itemText="Editar Manual"
+                            itemText="Edit Manual"
                           />
                         </OverflowMenu>
                       </TableCell>
-                      <TableCell key="nomeManual">{manual.nome}</TableCell>
+                      <TableCell key="manualName">{manual.nome}</TableCell>
                       <TableCell key="URL">C://Embraer/pdf/{manual.nome}</TableCell>
-                      <TableCell key="CreationDate">{manual.date.split('T')[0]}</TableCell>
+                      <TableCell key="creationDate">{manual.date.split('T')[0]}</TableCell>
                       <TableCell key={"visualizeAction"}>
                         <Link to={`/CodeList/${manual.nome}`}>
                           <ChevronRight20 style={{ cursor: "pointer" }} />

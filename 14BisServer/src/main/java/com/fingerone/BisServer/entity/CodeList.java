@@ -1,4 +1,4 @@
-package com.fingerone.BisServer.model;
+package com.fingerone.BisServer.entity;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
@@ -10,8 +10,6 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
-
-import com.fingerone.BisServer.entity.Manual;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
