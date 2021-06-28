@@ -129,6 +129,15 @@
 
 ---
 
+# Sprint 05 :gear:
+
+- Junção das páginas processadas para gerar o arquivo FULL;
+- Correção na aba da LEP para agrupar o CodeList a fim de buscar os documentos com base na aplicabilidade;
+- Correção na aba da LEP para permitir retornar os documentos específicos, ao invés de um igual para todos;
+- Pequenos ajustes na interface.
+
+---
+
 ## PRODUCT BACKLOG: :book: 
 
 
